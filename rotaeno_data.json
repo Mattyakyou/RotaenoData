@@ -18,19 +18,19 @@
         "chart": "Roteamo"
       },
       "2": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 1641,
         "chart": "Roteamo"
       },
       "3": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1408,
         "chart": "Roteamo"
       },
       "4": {
-        "level": "14.5",
+        "level": "14",
         "const": 14.5,
         "notes": 1641,
         "chart": "Roteamo"
@@ -56,19 +56,19 @@
         "chart": "TPRT Wen"
       },
       "2": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 1032,
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1759,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "14.4",
+        "level": "14",
         "const": 14.4,
         "notes": 2725,
         "chart": "Team Greenplant vs. 再瞬山刀"
@@ -94,7 +94,7 @@
         "chart": "Roteamo"
       },
       "2": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 776,
         "chart": "Roteamo"
@@ -106,7 +106,7 @@
         "chart": "Roteamo"
       },
       "4": {
-        "level": "14.3",
+        "level": "14",
         "const": 14.3,
         "notes": 1950,
         "chart": "Roteamo"
@@ -132,19 +132,19 @@
         "chart": "植物"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 564,
         "chart": "植物"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1118,
         "chart": "明日"
       },
       "4": {
-        "level": "14.2",
+        "level": "14",
         "const": 14.2,
         "notes": 1655,
         "chart": "日光植物"
@@ -170,7 +170,7 @@
         "chart": "植物"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 838,
         "chart": "植物"
@@ -182,7 +182,7 @@
         "chart": "明日"
       },
       "4": {
-        "level": "14.2",
+        "level": "14",
         "const": 14.2,
         "notes": 1874,
         "chart": "日光植物"
@@ -214,13 +214,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 961,
         "chart": "TangScend"
       },
       "4": {
-        "level": "14.2",
+        "level": "14",
         "const": 14.2,
         "notes": 1672,
         "chart": "TangScend"
@@ -258,7 +258,7 @@
         "chart": "植物"
       },
       "4": {
-        "level": "14.1",
+        "level": "14",
         "const": 14.1,
         "notes": 1444,
         "chart": "日光植物"
@@ -290,7 +290,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 840,
         "chart": "TangScend"
@@ -322,19 +322,19 @@
         "chart": "Jakasy"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 572,
         "chart": "Jakasy"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 728,
         "chart": "Jakasy"
       },
       "4": {
-        "level": "14.1",
+        "level": "14",
         "const": 14.1,
         "notes": 1745,
         "chart": "Joker vs AxEradaShi"
@@ -360,7 +360,7 @@
         "chart": "Jakasy"
       },
       "2": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 586,
         "chart": "Jakasy"
@@ -372,7 +372,7 @@
         "chart": "Jakasy"
       },
       "4": {
-        "level": "14.1",
+        "level": "14",
         "const": 14.1,
         "notes": 1626,
         "chart": "Joker vs AxEradaShi"
@@ -404,7 +404,7 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 1143,
         "chart": "Adashi"
@@ -474,13 +474,13 @@
         "chart": "TangScend"
       },
       "2": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 704,
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 809,
         "chart": "TangScend"
@@ -512,13 +512,13 @@
         "chart": "invisible AngrierB"
       },
       "2": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 637,
         "chart": "invisible AngrierB"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 1020,
         "chart": "invisible AngrierB"
@@ -550,13 +550,13 @@
         "chart": "Roteamo"
       },
       "2": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 640,
         "chart": "Roteamo"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 901,
         "chart": "Roteamo"
@@ -588,7 +588,7 @@
         "chart": "闇靈DarkM"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 825,
         "chart": "闇靈DarkM"
@@ -676,7 +676,7 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1586,
         "chart": "Adashi"
@@ -822,7 +822,7 @@
         "chart": "Adashi \"Master PPed\""
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 1339,
         "chart": "Adashi \"Master PPed\""
@@ -860,7 +860,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 1402,
         "chart": "TangScend"
@@ -898,7 +898,7 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 1234,
         "chart": "Adashi"
@@ -936,7 +936,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 992,
         "chart": "TPRT Wen"
@@ -968,13 +968,13 @@
         "chart": "闇靈 & TangScend"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 555,
         "chart": "闇靈 & TangScend"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 820,
         "chart": "闇靈 & TangScend"
@@ -1006,7 +1006,7 @@
         "chart": "AxEradaS"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 661,
         "chart": "AxEradaS"
@@ -1082,7 +1082,7 @@
         "chart": "j!ang"
       },
       "2": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 830,
         "chart": "j!ang"
@@ -1132,7 +1132,7 @@
         "chart": "植物"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1363,
         "chart": "植物"
@@ -1158,19 +1158,19 @@
         "chart": "AngrierB"
       },
       "2": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 471,
         "chart": "AngrierB"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 595,
         "chart": "AngrierB"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 750,
         "chart": "AngrierB"
@@ -1202,13 +1202,13 @@
         "chart": "闇靈"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 575,
         "chart": "闇靈"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1110,
         "chart": "闇靈"
@@ -1240,7 +1240,7 @@
         "chart": "AngrierB vs j!ang"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 1242,
         "chart": "AngrierB vs j!ang"
@@ -1278,7 +1278,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 711,
         "chart": "TangScend"
@@ -1316,7 +1316,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1112,
         "chart": "TangScend"
@@ -1354,13 +1354,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 1115,
         "chart": "Adashi"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1358,
         "chart": "Adashi"
@@ -1386,7 +1386,7 @@
         "chart": "みかんのはる"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 341,
         "chart": "みかんのはる"
@@ -1430,7 +1430,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 758,
         "chart": "TangScend"
@@ -1474,7 +1474,7 @@
         "chart": "闇靈Meteor襲来≡≡☆"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1176,
         "chart": "闇靈Meteor襲来≡≡☆"
@@ -1538,7 +1538,7 @@
         "chart": "AxEradaS"
       },
       "2": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 739,
         "chart": "AxEradaS"
@@ -1550,7 +1550,7 @@
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1316,
         "chart": "AxEradaS"
@@ -1576,19 +1576,19 @@
         "chart": "Frontline of Courage"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 457,
         "chart": "Frontline of Courage"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 788,
         "chart": "Frontline of Courage"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1259,
         "chart": "Frontline of Courage"
@@ -1620,7 +1620,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 694,
         "chart": "TangScend"
@@ -1652,19 +1652,19 @@
         "chart": "AngerイerP"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 860,
         "chart": "AngerイerP"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 1238,
         "chart": "AngerイerP"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1684,
         "chart": "AngerイerP"
@@ -1690,19 +1690,19 @@
         "chart": "TangScend"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 474,
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 775,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1053,
         "chart": "TangScend"
@@ -1734,13 +1734,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 1120,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1384,
         "chart": "TangScend"
@@ -1778,7 +1778,7 @@
         "chart": "Who’s your charTer"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1241,
         "chart": "Who’s your charTer"
@@ -1816,7 +1816,7 @@
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1099,
         "chart": "TangScend"
@@ -1848,13 +1848,13 @@
         "chart": "AxEradaShi"
       },
       "3": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 1054,
         "chart": "AxEradaShi"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1483,
         "chart": "AxEradaShi"
@@ -1886,13 +1886,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 1113,
         "chart": "イ号P"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1591,
         "chart": "IgouTang"
@@ -1918,7 +1918,7 @@
         "chart": "HIT WITH THE DARKCORE!!"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 416,
         "chart": "HIT WITH THE DARKCORE!!"
@@ -1930,7 +1930,7 @@
         "chart": "HIT WITH THE DARKCORE!!"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1050,
         "chart": "HIT WITH THE DARKCORE!!"
@@ -1968,7 +1968,7 @@
         "chart": "AXeRa -Blue??-"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1284,
         "chart": "AXeRa -Blue??-"
@@ -2000,13 +2000,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 616,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 936,
         "chart": "TangScend"
@@ -2032,19 +2032,19 @@
         "chart": "Gambling Master = SAISHUN"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 701,
         "chart": "Gambling Master = SAISHUN"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1043,
         "chart": "Gambling Master = SAISHUN"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1281,
         "chart": "Gambling Master = SAISHUN"
@@ -2082,7 +2082,7 @@
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1295,
         "chart": "TangScend"
@@ -2114,13 +2114,13 @@
         "chart": "AX"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 1189,
         "chart": "イ号P"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1476,
         "chart": "igouAX"
@@ -2158,7 +2158,7 @@
         "chart": "AxEradaS [desperate conflict]"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1237,
         "chart": "AxEradaS [desperate conflict]"
@@ -2196,7 +2196,7 @@
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1143,
         "chart": "TangScend"
@@ -2222,7 +2222,7 @@
         "chart": "j!ang×TangScend×DarkM"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 579,
         "chart": "j!ang×TangScend×DarkM"
@@ -2234,7 +2234,7 @@
         "chart": "j!ang×TangScend×DarkM"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1026,
         "chart": "j!ang×TangScend×DarkM"
@@ -2266,13 +2266,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 899,
         "chart": "イ号P"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1039,
         "chart": "イ号P"
@@ -2310,7 +2310,7 @@
         "chart": "AngrierB×TPRT Wen×AxEradaS"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 958,
         "chart": "AngrierB×TPRT Wen×AxEradaS"
@@ -2348,7 +2348,7 @@
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1013,
         "chart": "TPRT Wen"
@@ -2380,13 +2380,13 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 640,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1582,
         "chart": "TPRT Wen"
@@ -2412,19 +2412,19 @@
         "chart": "TangScend"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 424,
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 842,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1189,
         "chart": "TangScend"
@@ -2462,7 +2462,7 @@
         "chart": "闇靈＆イ号P"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1180,
         "chart": "闇靈＆イ号P"
@@ -2500,7 +2500,7 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1561,
         "chart": "Adashi"
@@ -2538,7 +2538,7 @@
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 970,
         "chart": "イ号P×TangScend×TPRT Wen"
@@ -2570,13 +2570,13 @@
         "chart": "qot"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 537,
         "chart": "qot"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1235,
         "chart": "qot"
@@ -2608,7 +2608,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 710,
         "chart": "イ号P"
@@ -2646,13 +2646,13 @@
         "chart": "ScendRez"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 789,
         "chart": "ScendRez"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1122,
         "chart": "ScendRez"
@@ -2684,16 +2684,22 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 1104,
         "chart": "Adashi"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
-        "notes": 11211972,
+        "notes": 1197,
         "chart": "AngrierB"
+      },
+      "5": {
+        "level": "13+",
+        "const": 13.9,
+        "notes": 1876,
+        "chart": "Ada▥hi"
       }
     }
   },
@@ -2722,13 +2728,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 1060,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1354,
         "chart": "TangScend"
@@ -2798,7 +2804,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 1068,
         "chart": "TangScend"
@@ -2842,7 +2848,7 @@
         "chart": "JAKASY IN THE DAYDREAM"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1390,
         "chart": "JAKASY IN THE DAYDREAM"
@@ -2874,7 +2880,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 911,
         "chart": "j!ang"
@@ -2912,7 +2918,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 566,
         "chart": "Jakasy"
@@ -2994,7 +3000,7 @@
         "chart": "AngrierB"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1496,
         "chart": "AngrierB"
@@ -3020,7 +3026,7 @@
         "chart": "イ号P"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 630,
         "chart": "イ号P"
@@ -3140,7 +3146,7 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 996,
         "chart": "AxEradaS"
@@ -3216,7 +3222,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 782,
         "chart": "TangScend"
@@ -3292,7 +3298,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 380,
         "chart": "j!ang"
@@ -3330,7 +3336,7 @@
         "chart": "闇靈[HARD]"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 682,
         "chart": "闇靈[HARD+]"
@@ -3368,7 +3374,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 661,
         "chart": "j!ang"
@@ -3400,13 +3406,13 @@
         "chart": "Adashi"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 542,
         "chart": "Adashi"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 635,
         "chart": "Adashi"
@@ -3482,7 +3488,7 @@
         "chart": "TangScend [bonne nuit]"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 498,
         "chart": "TangScend [bonne nuit]"
@@ -3526,7 +3532,7 @@
         "chart": "Waphtuos"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 780,
         "chart": "Waphtuos"
@@ -3590,7 +3596,7 @@
         "chart": "Adashi"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 367,
         "chart": "Adashi"
@@ -3678,7 +3684,7 @@
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 847,
         "chart": "TPRT Wen"
@@ -3710,7 +3716,7 @@
         "chart": "みかんのはる"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 624,
         "chart": "みかんのはる"
@@ -3748,7 +3754,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 754,
         "chart": "イ号P"
@@ -3824,7 +3830,7 @@
         "chart": "闇靈"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 431,
         "chart": "闇靈"
@@ -3862,7 +3868,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 695,
         "chart": "TPRT Wen"
@@ -3938,7 +3944,7 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 1087,
         "chart": "Adashi"
@@ -4014,7 +4020,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 809,
         "chart": "イ号P"
@@ -4052,7 +4058,7 @@
         "chart": "AngrierB From the East"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 873,
         "chart": "AngrierB From the East"
@@ -4128,13 +4134,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 1124,
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 1398,
         "chart": "j!ang"
@@ -4172,7 +4178,7 @@
         "chart": "闇靈DarkM"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 891,
         "chart": "闇靈DarkM"
@@ -4204,13 +4210,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 730,
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 967,
         "chart": "j!ang"
@@ -4242,13 +4248,13 @@
         "chart": "Waphtuos"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 513,
         "chart": "Waphtuos"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1058,
         "chart": "Waphtuos"
@@ -4280,7 +4286,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 545,
         "chart": "TPRT Wen"
@@ -4318,7 +4324,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 568,
         "chart": "MF-"
@@ -4388,19 +4394,19 @@
         "chart": "闇靈-ConTaMiNaTeD-"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 463,
         "chart": "闇靈-ConTaMiNaTeD-"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 696,
         "chart": "闇靈-ConTaMiNaTeD-"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 1383,
         "chart": "闇靈-ConTaMiNaTeD-"
@@ -4432,7 +4438,7 @@
         "chart": "AX ～残れる氷雪～"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 708,
         "chart": "AX ～残れる氷雪～"
@@ -4476,7 +4482,7 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1300,
         "chart": "Adashi"
@@ -4508,7 +4514,7 @@
         "chart": "PhantoM"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 884,
         "chart": "PhantoM"
@@ -4546,13 +4552,13 @@
         "chart": "魔法使☆闇靈☆"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 632,
         "chart": "魔法使☆闇靈☆"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 975,
         "chart": "魔法使☆闇靈☆"
@@ -4584,13 +4590,13 @@
         "chart": "AXERA＆再瞬"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 780,
         "chart": "AXERA＆再瞬"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1274,
         "chart": "AXERA＆再瞬"
@@ -4622,13 +4628,13 @@
         "chart": "Lost Antagonist"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 780,
         "chart": "Lost Antagonist"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1166,
         "chart": "Lost Antagonist"
@@ -4660,13 +4666,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 916,
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1020,
         "chart": "イ号P"
@@ -4698,13 +4704,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 835,
         "chart": "Adashi"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 989,
         "chart": "Adashi"
@@ -4736,13 +4742,13 @@
         "chart": "RHEZΘBAR"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 670,
         "chart": "RHEZΘBAR"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 962,
         "chart": "RHEZΘBAR"
@@ -4774,7 +4780,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 727,
         "chart": "TangScend"
@@ -4812,16 +4818,22 @@
         "chart": "AXERA"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 997,
         "chart": "AXERA"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1154,
         "chart": "TPRT Wen"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.2,
+        "notes": 1407,
+        "chart": "AXERA"
       }
     }
   },
@@ -4856,7 +4868,7 @@
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 883,
         "chart": "イ号P"
@@ -4888,13 +4900,13 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 1005,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1387,
         "chart": "TPRT Wen"
@@ -4932,7 +4944,7 @@
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 1229,
         "chart": "j!ang"
@@ -4964,13 +4976,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 586,
         "chart": "TangScend"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 889,
         "chart": "TangScend"
@@ -5002,13 +5014,13 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 1128,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1665,
         "chart": "TPRT Wen"
@@ -5040,13 +5052,13 @@
         "chart": "a.x.e.r.a."
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 701,
         "chart": "a.x.e.r.a."
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1075,
         "chart": "a.x.e.r.a."
@@ -5078,13 +5090,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 789,
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1172,
         "chart": "イ号P"
@@ -5122,10 +5134,16 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1290,
         "chart": "TangScend"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.3,
+        "notes": 1747,
+        "chart": "Adashi"
       }
     }
   },
@@ -5160,7 +5178,7 @@
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 707,
         "chart": "AxEradaS"
@@ -5198,7 +5216,7 @@
         "chart": "アクセラ・アナザー・ラウンド"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 1121,
         "chart": "アクセラ・アナザー・ラウンド"
@@ -5236,7 +5254,7 @@
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 872,
         "chart": "j!ang"
@@ -5268,13 +5286,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 847,
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1248,
         "chart": "イ号P"
@@ -5306,7 +5324,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 1027,
         "chart": "明日"
@@ -5344,13 +5362,13 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 616,
         "chart": "闇靈DarkM"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 1288,
         "chart": "闇靈DarkM"
@@ -5382,13 +5400,13 @@
         "chart": "TangScend as \"VERTEXTENDER\""
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 743,
         "chart": "TangScend as \"VERTEXTENDER\""
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1036,
         "chart": "TangScend as \"VERTEXTENDER\""
@@ -5420,13 +5438,13 @@
         "chart": "AXERA"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 758,
         "chart": "AXERA"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1062,
         "chart": "AXERA"
@@ -5458,13 +5476,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 983,
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 1203,
         "chart": "イ号P"
@@ -5496,13 +5514,13 @@
         "chart": "Pilot:Jakasy"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 612,
         "chart": "Pilot:Jakasy"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1497,
         "chart": "Pilot:Jakasy"
@@ -5534,7 +5552,7 @@
         "chart": "再瞬 & AXERA"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 744,
         "chart": "再瞬 & AXERA"
@@ -5572,13 +5590,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 771,
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 858,
         "chart": "j!ang"
@@ -5610,13 +5628,13 @@
         "chart": "闇靈"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 402,
         "chart": "闇靈"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 638,
         "chart": "闇靈"
@@ -5648,7 +5666,7 @@
         "chart": "♡⇐AXERA⇒♡"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 849,
         "chart": "♡⇐AXERA⇒♡"
@@ -5724,7 +5742,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 620,
         "chart": "イ号P"
@@ -5762,7 +5780,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 507,
         "chart": "Jakasy"
@@ -5800,7 +5818,7 @@
         "chart": "↓AXERA↓"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 866,
         "chart": "↓AXERA↓"
@@ -5838,7 +5856,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 813,
         "chart": "イ号P"
@@ -5990,7 +6008,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 750,
         "chart": "j!ang"
@@ -6028,7 +6046,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 799,
         "chart": "TPRT Wen"
@@ -6104,7 +6122,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 718,
         "chart": "TangScend"
@@ -6218,13 +6236,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 706,
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 840,
         "chart": "j!ang"
@@ -6256,7 +6274,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 441,
         "chart": "j!ang"
@@ -6294,7 +6312,7 @@
         "chart": "Chris醬!"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 336,
         "chart": "Chris醬!"
@@ -6376,7 +6394,7 @@
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 909,
         "chart": "イ号P"
@@ -6408,7 +6426,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 638,
         "chart": "Jakasy"
@@ -6446,13 +6464,13 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 557,
         "chart": "闇靈DarkM"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 873,
         "chart": "闇靈DarkM"
@@ -6490,7 +6508,7 @@
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 862,
         "chart": "j!ang"
@@ -6522,7 +6540,7 @@
         "chart": "TangScend on the train"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 628,
         "chart": "TangScend on the train"
@@ -6560,7 +6578,7 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 713,
         "chart": "AxEradaS"
@@ -6598,7 +6616,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 661,
         "chart": "闇靈DarkM"
@@ -6712,7 +6730,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 445,
         "chart": "闇靈DarkM"
@@ -6750,7 +6768,7 @@
         "chart": "AXERADAS"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 656,
         "chart": "AXERADAS"
@@ -6788,7 +6806,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 597,
         "chart": "j!ang"
@@ -6826,7 +6844,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 424,
         "chart": "闇靈DarkM"
@@ -6864,7 +6882,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 611,
         "chart": "イ号P"
@@ -6902,7 +6920,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 654,
         "chart": "闇靈DarkM"
@@ -6940,7 +6958,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 920,
         "chart": "TangScend"
@@ -6978,13 +6996,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 517,
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 763,
         "chart": "j!ang"
@@ -7054,13 +7072,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 632,
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 839,
         "chart": "j!ang"
@@ -7092,7 +7110,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 517,
         "chart": "イ号P"
@@ -7130,13 +7148,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 540,
         "chart": "Adashi"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 795,
         "chart": "Adashi"
@@ -7168,13 +7186,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 621,
         "chart": "Adashi"
       },
       "4": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 717,
         "chart": "Adashi"
@@ -7206,13 +7224,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 587,
         "chart": "TangScend"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 761,
         "chart": "TangScend"
@@ -7244,7 +7262,7 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 515,
         "chart": "AxEradaS"
@@ -7282,13 +7300,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 402,
         "chart": "イ号P"
       },
       "4": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 540,
         "chart": "イ号P"
@@ -7320,13 +7338,13 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 592,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 958,
         "chart": "TPRT Wen"
@@ -7358,13 +7376,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 568,
         "chart": "Adashi"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 805,
         "chart": "Adashi"
@@ -7396,13 +7414,13 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 427,
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 655,
         "chart": "AxEradaS"
@@ -7434,13 +7452,13 @@
         "chart": "AXERA -All about YOU &amp; ME-"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 642,
         "chart": "AXERA -All about YOU &amp; ME-"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 883,
         "chart": "AXERA -All about YOU &amp; ME-"
@@ -7478,7 +7496,7 @@
         "chart": "イ号P"
       },
       "4": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 943,
         "chart": "イ号P"
@@ -7510,13 +7528,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 967,
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 1077,
         "chart": "j!ang"
@@ -7548,13 +7566,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 404,
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 846,
         "chart": "j!ang"
@@ -7586,7 +7604,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 467,
         "chart": "j!ang"
@@ -7624,7 +7642,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 468,
         "chart": "イ号P"
@@ -7662,7 +7680,7 @@
         "chart": "AngrierB"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 363,
         "chart": "AngrierB"
@@ -7700,7 +7718,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 410,
         "chart": "j!ang"
@@ -7738,7 +7756,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 473,
         "chart": "TPRT Wen"
@@ -7776,7 +7794,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 393,
         "chart": "イ号P"
@@ -7858,7 +7876,7 @@
         "chart": "闇靈DarkM"
       },
       "4": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 778,
         "chart": "闇靈DarkM"
@@ -7890,13 +7908,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 378,
         "chart": "TangScend"
       },
       "4": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 532,
         "chart": "TangScend"
@@ -8004,13 +8022,13 @@
         "chart": "Rotaemo -Memoir-"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 905,
         "chart": "Rotaemo -Memoir-"
       },
       "4": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1136,
         "chart": "Rotaemo -Memoir-"
@@ -8042,13 +8060,13 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 600,
         "chart": "Jakasy"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 1229,
         "chart": "Jakasy"
@@ -8080,13 +8098,13 @@
         "chart": "尼西特nsida"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 791,
         "chart": "尼西特nsida"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1657,
         "chart": "尼西特nsida"
@@ -8118,7 +8136,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 826,
         "chart": "TangScend"
@@ -8156,7 +8174,7 @@
         "chart": "尾号×Adashi"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 905,
         "chart": "尾号×Adashi"
@@ -8194,13 +8212,13 @@
         "chart": "植物vs.動物"
       },
       "3": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1309,
         "chart": "植物vs.動物"
       },
       "4": {
-        "level": "14.1",
+        "level": "14",
         "const": 14.1,
         "notes": 1904,
         "chart": "植物vs.動物"
@@ -8232,13 +8250,13 @@
         "chart": "aqatl"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 654,
         "chart": "aqatl"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1073,
         "chart": "aqatl"
@@ -8270,13 +8288,13 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 682,
         "chart": "Jakasy"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1383,
         "chart": "Jakasy醬！"
@@ -8308,7 +8326,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 713,
         "chart": "Jakasy"
@@ -8390,7 +8408,7 @@
         "chart": "lino"
       },
       "4": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 738,
         "chart": "lino"
@@ -8422,7 +8440,7 @@
         "chart": "CorpseRT"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 914,
         "chart": "CorpseRT"
@@ -8466,7 +8484,7 @@
         "chart": "AXERA"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 881,
         "chart": "AXERA"
@@ -8498,7 +8516,7 @@
         "chart": "尾号"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 1027,
         "chart": "尾号"
@@ -8536,7 +8554,7 @@
         "chart": "AngrierB"
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 928,
         "chart": "闇靈DarkM -In the Wheel of Time-"
@@ -8568,7 +8586,7 @@
         "chart": "IGP"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 829,
         "chart": "IGP @ Rate 7"
@@ -8580,7 +8598,7 @@
         "chart": "IGP @ Rate 10"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1511,
         "chart": "IGP @ Rate 5000T [音暴流舞皆伝]"
@@ -8612,13 +8630,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 1132,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1835,
         "chart": "TangScend"
@@ -8650,13 +8668,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 841,
         "chart": "TangScend"
       },
       "4": {
-        "level": "14.3",
+        "level": "14",
         "const": 14.3,
         "notes": 1649,
         "chart": "Tangsand x Adashi: Reborn & Newage"
@@ -8694,7 +8712,7 @@
         "chart": "AX [Recall:20221208]"
       },
       "4": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 897,
         "chart": "AX [Recall:20221208]"
@@ -8726,7 +8744,7 @@
         "chart": "lino"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 698,
         "chart": "lino"
@@ -8758,13 +8776,13 @@
         "chart": "Yntotr HP"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 699,
         "chart": "Yntotr HP"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 957,
         "chart": "Yntotr HP"
@@ -8802,7 +8820,7 @@
         "chart": "qot"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 559,
         "chart": "qot"
@@ -8840,13 +8858,13 @@
         "chart": "ani"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 1054,
         "chart": "ani"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1346,
         "chart": "ani"
@@ -8878,7 +8896,7 @@
         "chart": "AX3RA"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 598,
         "chart": "AX3RA"
@@ -8916,7 +8934,7 @@
         "chart": "日光植物"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 1355,
         "chart": "日光植物"
@@ -8960,7 +8978,7 @@
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1400,
         "chart": "j!ang"
@@ -8992,13 +9010,13 @@
         "chart": "Jakasy - \"____\" The World"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 862,
         "chart": "Jakasy - \"____\" The World"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1674,
         "chart": "Jakasy - \"____\" The World"
@@ -9030,7 +9048,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 1212,
         "chart": "闇靈DarkM"
@@ -9062,22 +9080,28 @@
         "chart": "イ号P"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 673,
         "chart": "イ号P"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1039,
         "chart": "イ号P"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1268,
         "chart": "イ号P"
+      },
+      "5": {
+        "level": "13+",
+        "const": 13.7,
+        "notes": 1503,
+        "chart": "j!ang"
       }
     }
   },
@@ -9100,19 +9124,19 @@
         "chart": "Adashi"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 827,
         "chart": "TangScend"
       },
       "3": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1013,
         "chart": "TangScend"
       },
       "4": {
-        "level": "14.4",
+        "level": "14",
         "const": 14.4,
         "notes": 1835,
         "chart": "Adashi x TangScend: \"Iterum Venimus\""
@@ -9144,7 +9168,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 748,
         "chart": "TangScend"
@@ -9182,7 +9206,7 @@
         "chart": "lino"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 499,
         "chart": "lino"
@@ -9220,7 +9244,7 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1236,
         "chart": "AxEradaS"
@@ -9258,7 +9282,7 @@
         "chart": "PhantoM"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 619,
         "chart": "PhantoM"
@@ -9296,7 +9320,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 1165,
         "chart": "闇靈DarkM"
@@ -9334,13 +9358,13 @@
         "chart": "左下"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 1031,
         "chart": "左下"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1285,
         "chart": "左下"
@@ -9372,13 +9396,13 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 689,
         "chart": "Jakasy"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1348,
         "chart": "Jakasy[森]"
@@ -9404,7 +9428,7 @@
         "chart": "明日"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 566,
         "chart": "明日"
@@ -9442,7 +9466,7 @@
         "chart": "Adashi"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 1210,
         "chart": "Adashi"
@@ -9454,7 +9478,7 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "14.3",
+        "level": "14",
         "const": 14.3,
         "notes": 2921,
         "chart": "Plant×Adashi:\"MVURFG\""
@@ -9486,7 +9510,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 864,
         "chart": "TPRT Wen"
@@ -9524,7 +9548,7 @@
         "chart": "Horiztar"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 661,
         "chart": "Horiztar"
@@ -9562,13 +9586,13 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 856,
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 999,
         "chart": "AxEradaS"
@@ -9600,7 +9624,7 @@
         "chart": "Jakasy ~Purity &amp; Happiness~"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.8,
         "notes": 749,
         "chart": "Jakasy ~Purity &amp; Happiness~"
@@ -9638,7 +9662,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.9,
         "notes": 992,
         "chart": "TangScend"
@@ -9676,7 +9700,7 @@
         "chart": "AXERA in novice village"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.8,
         "notes": 823,
         "chart": "AXERA in novice village"
@@ -9714,7 +9738,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.7,
         "notes": 809,
         "chart": "イ号P"
@@ -9828,7 +9852,7 @@
         "chart": "植物"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.9,
         "notes": 909,
         "chart": "植物"
@@ -10024,7 +10048,7 @@
         "chart": "尾号"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.6,
         "notes": 998,
         "chart": "尾号"
@@ -10062,7 +10086,7 @@
         "chart": "lino"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.6,
         "notes": 988,
         "chart": "lino"
@@ -10460,7 +10484,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.8,
         "notes": 864,
         "chart": "j!ang"
@@ -10536,7 +10560,7 @@
         "chart": "IGP(12AM)"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.9,
         "notes": 868,
         "chart": "IGP(2AM)"
@@ -10624,7 +10648,7 @@
         "chart": "lino"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.7,
         "notes": 822,
         "chart": "lino"
@@ -10706,7 +10730,7 @@
         "chart": "Joker~Clubs~"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.9,
         "notes": 828,
         "chart": "Joker~Diamonds~"
@@ -11098,7 +11122,7 @@
         "chart": "Blue AXERA"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.6,
         "notes": 657,
         "chart": "Blue AXERA"
