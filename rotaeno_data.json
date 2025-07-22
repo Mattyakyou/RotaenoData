@@ -6,8 +6,9 @@
       "composer": "隣の庭は青い(庭師＆Aoi)",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 180,
       "length": 151,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0000"
     },
     "data": {
@@ -18,19 +19,19 @@
         "chart": "Roteamo"
       },
       "2": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 1641,
         "chart": "Roteamo"
       },
       "3": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1408,
         "chart": "Roteamo"
       },
       "4": {
-        "level": "14.5",
+        "level": "14",
         "const": 14.5,
         "notes": 1641,
         "chart": "Roteamo"
@@ -44,8 +45,9 @@
       "composer": "Team Grimoire vs Aoi",
       "release": "2024-08-29",
       "update_version": "2.2.0",
-      "bpm": 212,
       "length": 158,
+      "bpm_min": 212,
+      "bpm_max": 212,
       "jacket_number": "0001"
     },
     "data": {
@@ -56,19 +58,19 @@
         "chart": "TPRT Wen"
       },
       "2": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 1032,
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1759,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "14.4",
+        "level": "14",
         "const": 14.4,
         "notes": 2725,
         "chart": "Team Greenplant vs. 再瞬山刀"
@@ -82,8 +84,9 @@
       "composer": "Akira Complex",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 174,
       "length": 136,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "0002"
     },
     "data": {
@@ -94,7 +97,7 @@
         "chart": "Roteamo"
       },
       "2": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 776,
         "chart": "Roteamo"
@@ -106,7 +109,7 @@
         "chart": "Roteamo"
       },
       "4": {
-        "level": "14.3",
+        "level": "14",
         "const": 14.3,
         "notes": 1950,
         "chart": "Roteamo"
@@ -120,8 +123,9 @@
       "composer": "Laur vs HyuN",
       "release": "2023-02-28",
       "update_version": "1.7.0",
-      "bpm": 196,
       "length": 157,
+      "bpm_min": 196,
+      "bpm_max": 196,
       "jacket_number": "0003"
     },
     "data": {
@@ -132,19 +136,19 @@
         "chart": "植物"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 564,
         "chart": "植物"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1118,
         "chart": "明日"
       },
       "4": {
-        "level": "14.2",
+        "level": "14",
         "const": 14.2,
         "notes": 1655,
         "chart": "日光植物"
@@ -158,8 +162,9 @@
       "composer": "ETIA.",
       "release": "2024-01-17",
       "update_version": "1.14.0",
-      "bpm": 175,
       "length": 171,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0004"
     },
     "data": {
@@ -170,7 +175,7 @@
         "chart": "植物"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 838,
         "chart": "植物"
@@ -182,7 +187,7 @@
         "chart": "明日"
       },
       "4": {
-        "level": "14.2",
+        "level": "14",
         "const": 14.2,
         "notes": 1874,
         "chart": "日光植物"
@@ -196,8 +201,9 @@
       "composer": "t+pazolite",
       "release": "2024-03-07",
       "update_version": "1.15.0",
-      "bpm": 169,
       "length": 147,
+      "bpm_min": 169,
+      "bpm_max": 169,
       "jacket_number": "0005"
     },
     "data": {
@@ -214,13 +220,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 961,
         "chart": "TangScend"
       },
       "4": {
-        "level": "14.2",
+        "level": "14",
         "const": 14.2,
         "notes": 1672,
         "chart": "TangScend"
@@ -234,8 +240,9 @@
       "composer": "Powerless",
       "release": "2024-04-18",
       "update_version": "1.16.0",
-      "bpm": 200,
       "length": 134,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "0006"
     },
     "data": {
@@ -258,7 +265,7 @@
         "chart": "植物"
       },
       "4": {
-        "level": "14.1",
+        "level": "14",
         "const": 14.1,
         "notes": 1444,
         "chart": "日光植物"
@@ -272,8 +279,9 @@
       "composer": "Se-U-Ra",
       "release": "2023-12-05",
       "update_version": "1.13.0",
-      "bpm": 230,
       "length": 122,
+      "bpm_min": 230,
+      "bpm_max": 230,
       "jacket_number": "0007"
     },
     "data": {
@@ -290,7 +298,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 840,
         "chart": "TangScend"
@@ -310,8 +318,9 @@
       "composer": "Nagiha",
       "release": "2023-10-19",
       "update_version": "1.12.0",
-      "bpm": 220,
       "length": 154,
+      "bpm_min": 176,
+      "bpm_max": 234,
       "jacket_number": "0008"
     },
     "data": {
@@ -322,19 +331,19 @@
         "chart": "Jakasy"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 572,
         "chart": "Jakasy"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 728,
         "chart": "Jakasy"
       },
       "4": {
-        "level": "14.1",
+        "level": "14",
         "const": 14.1,
         "notes": 1745,
         "chart": "Joker vs AxEradaShi"
@@ -348,8 +357,9 @@
       "composer": "MYUKKE.",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 170,
       "length": 140,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "0009"
     },
     "data": {
@@ -360,7 +370,7 @@
         "chart": "Jakasy"
       },
       "2": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 586,
         "chart": "Jakasy"
@@ -372,7 +382,7 @@
         "chart": "Jakasy"
       },
       "4": {
-        "level": "14.1",
+        "level": "14",
         "const": 14.1,
         "notes": 1626,
         "chart": "Joker vs AxEradaShi"
@@ -386,8 +396,9 @@
       "composer": "Tatsh & Scarlette",
       "release": "2023-07-05",
       "update_version": "1.10.0",
-      "bpm": 200,
       "length": 151,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "000a"
     },
     "data": {
@@ -404,7 +415,7 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 1143,
         "chart": "Adashi"
@@ -424,8 +435,9 @@
       "composer": "LV.4",
       "release": "2023-12-24",
       "update_version": "1.13.3",
-      "bpm": 170,
       "length": 141,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "000b"
     },
     "data": {
@@ -462,8 +474,9 @@
       "composer": "モリモリあつし",
       "release": "2022-06-13",
       "update_version": "1.0.6",
-      "bpm": 202,
       "length": 125,
+      "bpm_min": 202,
+      "bpm_max": 202,
       "jacket_number": "000c"
     },
     "data": {
@@ -474,13 +487,13 @@
         "chart": "TangScend"
       },
       "2": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 704,
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 809,
         "chart": "TangScend"
@@ -500,8 +513,9 @@
       "composer": "Kobaryo",
       "release": "2022-10-19",
       "update_version": "1.4.0",
-      "bpm": 245,
       "length": 135,
+      "bpm_min": 245,
+      "bpm_max": 245,
       "jacket_number": "000d"
     },
     "data": {
@@ -512,13 +526,13 @@
         "chart": "invisible AngrierB"
       },
       "2": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 637,
         "chart": "invisible AngrierB"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 1020,
         "chart": "invisible AngrierB"
@@ -538,8 +552,9 @@
       "composer": "ARForest",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 180,
       "length": 132,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "000e"
     },
     "data": {
@@ -550,13 +565,13 @@
         "chart": "Roteamo"
       },
       "2": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 640,
         "chart": "Roteamo"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 901,
         "chart": "Roteamo"
@@ -576,8 +591,9 @@
       "composer": "Kobaryo vs HyuN",
       "release": "2024-03-07",
       "update_version": "1.15.0",
-      "bpm": 222,
       "length": 141,
+      "bpm_min": 222,
+      "bpm_max": 222,
       "jacket_number": "000f"
     },
     "data": {
@@ -588,7 +604,7 @@
         "chart": "闇靈DarkM"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 825,
         "chart": "闇靈DarkM"
@@ -614,8 +630,9 @@
       "composer": "TANO*C Sound Team",
       "release": "2023-02-28",
       "update_version": "1.7.0",
-      "bpm": 200,
       "length": 132,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "0010"
     },
     "data": {
@@ -652,8 +669,9 @@
       "composer": "Team Grimoire",
       "release": "2023-02-28",
       "update_version": "1.13.0",
-      "bpm": 190,
       "length": 132,
+      "bpm_min": 190,
+      "bpm_max": 190,
       "jacket_number": "0011"
     },
     "data": {
@@ -676,7 +694,7 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1586,
         "chart": "Adashi"
@@ -690,8 +708,9 @@
       "composer": "seatrus",
       "release": "2023-10-19",
       "update_version": "1.12.0",
-      "bpm": 158,
       "length": 128,
+      "bpm_min": 158,
+      "bpm_max": 158,
       "jacket_number": "0012"
     },
     "data": {
@@ -728,8 +747,9 @@
       "composer": "kobaryo",
       "release": "2023-02-28",
       "update_version": "1.7.0",
-      "bpm": 133,
       "length": 133,
+      "bpm_min": 133,
+      "bpm_max": 133,
       "jacket_number": "0013"
     },
     "data": {
@@ -766,8 +786,9 @@
       "composer": "Maozon",
       "release": "2024-04-18",
       "update_version": "1.16.0",
-      "bpm": 180,
       "length": 155,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0014"
     },
     "data": {
@@ -804,8 +825,9 @@
       "composer": "t+pazolite VS 削除",
       "release": "2022-10-19",
       "update_version": "1.4.0",
-      "bpm": 290,
       "length": 157,
+      "bpm_min": 290,
+      "bpm_max": 290,
       "jacket_number": "0015"
     },
     "data": {
@@ -822,7 +844,7 @@
         "chart": "Adashi \"Master PPed\""
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 1339,
         "chart": "Adashi \"Master PPed\""
@@ -842,8 +864,9 @@
       "composer": "Camellia",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 183,
       "length": 163,
+      "bpm_min": 183,
+      "bpm_max": 183,
       "jacket_number": "0016"
     },
     "data": {
@@ -860,7 +883,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 1402,
         "chart": "TangScend"
@@ -880,8 +903,9 @@
       "composer": "Raimukun",
       "release": "2023-10-19",
       "update_version": "1.12.0",
-      "bpm": 200,
       "length": 151,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "0017"
     },
     "data": {
@@ -898,7 +922,7 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 1234,
         "chart": "Adashi"
@@ -918,8 +942,9 @@
       "composer": "nmk feat.橘花音",
       "release": "2023-04-07",
       "update_version": "1.8.0",
-      "bpm": 178,
       "length": 141,
+      "bpm_min": 178,
+      "bpm_max": 178,
       "jacket_number": "0018"
     },
     "data": {
@@ -936,7 +961,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 992,
         "chart": "TPRT Wen"
@@ -956,8 +981,9 @@
       "composer": "USAO & DJ Genki feat. ルーン(CV:河瀬茉希)",
       "release": "2022-10-19",
       "update_version": "1.4.0",
-      "bpm": 200,
       "length": 141,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "0019"
     },
     "data": {
@@ -968,13 +994,13 @@
         "chart": "闇靈 & TangScend"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 555,
         "chart": "闇靈 & TangScend"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 820,
         "chart": "闇靈 & TangScend"
@@ -994,8 +1020,9 @@
       "composer": "Tanchiky & 打打だいず",
       "release": "2022-10-30",
       "update_version": "1.4.1",
-      "bpm": 190,
       "length": 146,
+      "bpm_min": 190,
+      "bpm_max": 190,
       "jacket_number": "001a"
     },
     "data": {
@@ -1006,7 +1033,7 @@
         "chart": "AxEradaS"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 661,
         "chart": "AxEradaS"
@@ -1032,8 +1059,9 @@
       "composer": "Ashrount vs. 打打だいず",
       "release": "2024-08-29",
       "update_version": "2.2.0",
-      "bpm": 216,
       "length": 161,
+      "bpm_min": 216,
+      "bpm_max": 216,
       "jacket_number": "001b"
     },
     "data": {
@@ -1070,8 +1098,9 @@
       "composer": "cybermiso",
       "release": "2024-08-29",
       "update_version": "2.2.0",
-      "bpm": 105,
       "length": 155,
+      "bpm_min": 105,
+      "bpm_max": 105,
       "jacket_number": "001c"
     },
     "data": {
@@ -1082,7 +1111,7 @@
         "chart": "j!ang"
       },
       "2": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 830,
         "chart": "j!ang"
@@ -1108,8 +1137,9 @@
       "composer": "立秋 feat.ててんまる",
       "release": "2024-07-18",
       "update_version": "2.1.0",
-      "bpm": 165,
       "length": 139,
+      "bpm_min": 165,
+      "bpm_max": 165,
       "jacket_number": "001d"
     },
     "data": {
@@ -1132,7 +1162,7 @@
         "chart": "植物"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1363,
         "chart": "植物"
@@ -1146,8 +1176,9 @@
       "composer": "Nagiha",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 116,
       "length": 104,
+      "bpm_min": 116,
+      "bpm_max": 116,
       "jacket_number": "001e"
     },
     "data": {
@@ -1158,19 +1189,19 @@
         "chart": "AngrierB"
       },
       "2": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 471,
         "chart": "AngrierB"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 595,
         "chart": "AngrierB"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 750,
         "chart": "AngrierB"
@@ -1184,8 +1215,9 @@
       "composer": "Aoi",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 202,
       "length": 121,
+      "bpm_min": 202,
+      "bpm_max": 202,
       "jacket_number": "001f"
     },
     "data": {
@@ -1202,13 +1234,13 @@
         "chart": "闇靈"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 575,
         "chart": "闇靈"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1110,
         "chart": "闇靈"
@@ -1222,8 +1254,9 @@
       "composer": "Sheet Music Boss",
       "release": "2023-05-30",
       "update_version": "1.9.0",
-      "bpm": 125,
       "length": 144,
+      "bpm_min": 125,
+      "bpm_max": 125,
       "jacket_number": "0020"
     },
     "data": {
@@ -1240,7 +1273,7 @@
         "chart": "AngrierB vs j!ang"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 1242,
         "chart": "AngrierB vs j!ang"
@@ -1260,8 +1293,9 @@
       "composer": "かねこちはる",
       "release": "2022-11-25",
       "update_version": "1.5.0",
-      "bpm": 170,
       "length": 165,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "0021"
     },
     "data": {
@@ -1278,7 +1312,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 711,
         "chart": "TangScend"
@@ -1298,8 +1332,9 @@
       "composer": "Sakuzyo",
       "release": "2023-12-05",
       "update_version": "1.13.0",
-      "bpm": 150,
       "length": 162,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "0022"
     },
     "data": {
@@ -1316,7 +1351,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1112,
         "chart": "TangScend"
@@ -1336,8 +1371,9 @@
       "composer": "kanone",
       "release": "2024-01-17",
       "update_version": "1.14.0",
-      "bpm": 154,
       "length": 133,
+      "bpm_min": 154,
+      "bpm_max": 154,
       "jacket_number": "0023"
     },
     "data": {
@@ -1354,13 +1390,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 1115,
         "chart": "Adashi"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1358,
         "chart": "Adashi"
@@ -1374,8 +1410,9 @@
       "composer": "Scarlette a.k.a. CrYmson",
       "release": "2023-07-05",
       "update_version": "1.10.0",
-      "bpm": 180,
       "length": 174,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0024"
     },
     "data": {
@@ -1386,7 +1423,7 @@
         "chart": "みかんのはる"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 341,
         "chart": "みかんのはる"
@@ -1412,8 +1449,9 @@
       "composer": "DJ Noriken",
       "release": "2022-10-19",
       "update_version": "1.4.0",
-      "bpm": 170,
       "length": 124,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "0025"
     },
     "data": {
@@ -1430,7 +1468,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 758,
         "chart": "TangScend"
@@ -1450,8 +1488,9 @@
       "composer": "DJ Genki",
       "release": "2022-02-28",
       "update_version": "1.7.0",
-      "bpm": 180,
       "length": 130,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0026"
     },
     "data": {
@@ -1474,7 +1513,7 @@
         "chart": "闇靈Meteor襲来≡≡☆"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1176,
         "chart": "闇靈Meteor襲来≡≡☆"
@@ -1488,8 +1527,9 @@
       "composer": "Chroma",
       "release": "2024-04-18",
       "update_version": "1.16.0",
-      "bpm": 175,
       "length": 172,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0027"
     },
     "data": {
@@ -1526,8 +1566,9 @@
       "composer": "Nagiha",
       "release": "2022-08-11",
       "update_version": "1.2.0",
-      "bpm": 144,
       "length": 155,
+      "bpm_min": 144,
+      "bpm_max": 144,
       "jacket_number": "0028"
     },
     "data": {
@@ -1538,7 +1579,7 @@
         "chart": "AxEradaS"
       },
       "2": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 739,
         "chart": "AxEradaS"
@@ -1550,7 +1591,7 @@
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1316,
         "chart": "AxEradaS"
@@ -1564,8 +1605,9 @@
       "composer": "みーに",
       "release": "2023-05-30",
       "update_version": "1.9.0",
-      "bpm": 200,
       "length": 126,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "0029"
     },
     "data": {
@@ -1576,19 +1618,19 @@
         "chart": "Frontline of Courage"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 457,
         "chart": "Frontline of Courage"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 788,
         "chart": "Frontline of Courage"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1259,
         "chart": "Frontline of Courage"
@@ -1602,8 +1644,9 @@
       "composer": "Sephid",
       "release": "2022-11-25",
       "update_version": "1.5.0",
-      "bpm": 155,
       "length": 140,
+      "bpm_min": 155,
+      "bpm_max": 155,
       "jacket_number": "002a"
     },
     "data": {
@@ -1620,7 +1663,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 694,
         "chart": "TangScend"
@@ -1640,8 +1683,9 @@
       "composer": "かめりあ",
       "release": "2022-11-25",
       "update_version": "1.5.0",
-      "bpm": 174,
       "length": 166,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "002b"
     },
     "data": {
@@ -1652,19 +1696,19 @@
         "chart": "AngerイerP"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 860,
         "chart": "AngerイerP"
       },
       "3": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 1238,
         "chart": "AngerイerP"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1684,
         "chart": "AngerイerP"
@@ -1678,8 +1722,9 @@
       "composer": "cybermiso feat.tigerlily",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 174,
       "length": 150,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "002c"
     },
     "data": {
@@ -1690,19 +1735,19 @@
         "chart": "TangScend"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 474,
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 775,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1053,
         "chart": "TangScend"
@@ -1716,8 +1761,9 @@
       "composer": "Sakuzyo feat.void",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 100,
       "length": 143,
+      "bpm_min": 100,
+      "bpm_max": 100,
       "jacket_number": "002d"
     },
     "data": {
@@ -1734,13 +1780,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 1120,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1384,
         "chart": "TangScend"
@@ -1754,8 +1800,9 @@
       "composer": "What’s Your Price",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 145,
       "length": 140,
+      "bpm_min": 145,
+      "bpm_max": 145,
       "jacket_number": "002e"
     },
     "data": {
@@ -1778,7 +1825,7 @@
         "chart": "Who’s your charTer"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1241,
         "chart": "Who’s your charTer"
@@ -1792,8 +1839,9 @@
       "composer": "Silentroom",
       "release": "2024-08-08",
       "update_version": "2.1.1",
-      "bpm": 100,
       "length": 143,
+      "bpm_min": 100,
+      "bpm_max": 100,
       "jacket_number": "002f"
     },
     "data": {
@@ -1816,7 +1864,7 @@
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1099,
         "chart": "TangScend"
@@ -1830,8 +1878,9 @@
       "composer": "Srav3R vs Getty",
       "release": "2022-10-19",
       "update_version": "1.4.0",
-      "bpm": 200,
       "length": 145,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "0030"
     },
     "data": {
@@ -1848,13 +1897,13 @@
         "chart": "AxEradaShi"
       },
       "3": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 1054,
         "chart": "AxEradaShi"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1483,
         "chart": "AxEradaShi"
@@ -1868,8 +1917,9 @@
       "composer": "jioyi",
       "release": "2024-04-18",
       "update_version": "1.16.0",
-      "bpm": 182,
       "length": 194,
+      "bpm_min": 182,
+      "bpm_max": 182,
       "jacket_number": "0031"
     },
     "data": {
@@ -1886,13 +1936,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 1113,
         "chart": "イ号P"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1591,
         "chart": "IgouTang"
@@ -1906,8 +1956,9 @@
       "composer": "ETIA. feat. Jenga",
       "release": "2023-04-07",
       "update_version": "1.8.0",
-      "bpm": 170,
       "length": 122,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "0032"
     },
     "data": {
@@ -1918,7 +1969,7 @@
         "chart": "HIT WITH THE DARKCORE!!"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 416,
         "chart": "HIT WITH THE DARKCORE!!"
@@ -1930,7 +1981,7 @@
         "chart": "HIT WITH THE DARKCORE!!"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1050,
         "chart": "HIT WITH THE DARKCORE!!"
@@ -1944,8 +1995,9 @@
       "composer": "siqlo",
       "release": "2024-01-17",
       "update_version": "1.14.0",
-      "bpm": 152,
       "length": 127,
+      "bpm_min": 152,
+      "bpm_max": 152,
       "jacket_number": "0033"
     },
     "data": {
@@ -1968,7 +2020,7 @@
         "chart": "AXeRa -Blue??-"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1284,
         "chart": "AXeRa -Blue??-"
@@ -1982,8 +2034,9 @@
       "composer": "Memme",
       "release": "2024-02-08",
       "update_version": "1.14.1",
-      "bpm": 175,
       "length": 124,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0034"
     },
     "data": {
@@ -2000,13 +2053,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 616,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 936,
         "chart": "TangScend"
@@ -2020,8 +2073,9 @@
       "composer": "pan",
       "release": "2023-10-19",
       "update_version": "1.12.0",
-      "bpm": 236,
       "length": 139,
+      "bpm_min": 236,
+      "bpm_max": 236,
       "jacket_number": "0035"
     },
     "data": {
@@ -2032,19 +2086,19 @@
         "chart": "Gambling Master = SAISHUN"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 701,
         "chart": "Gambling Master = SAISHUN"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1043,
         "chart": "Gambling Master = SAISHUN"
       },
       "4": {
-        "level": "13.4",
+        "level": "13",
         "const": 13.4,
         "notes": 1281,
         "chart": "Gambling Master = SAISHUN"
@@ -2058,8 +2112,9 @@
       "composer": "HyuN feat.花たん",
       "release": "2023-08-30",
       "update_version": "1.11.0",
-      "bpm": 180,
       "length": 148,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0036"
     },
     "data": {
@@ -2082,7 +2137,7 @@
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1295,
         "chart": "TangScend"
@@ -2096,8 +2151,9 @@
       "composer": "yoho",
       "release": "2024-08-29",
       "update_version": "2.2.0",
-      "bpm": 172,
       "length": 140,
+      "bpm_min": 172,
+      "bpm_max": 172,
       "jacket_number": "0037"
     },
     "data": {
@@ -2114,13 +2170,13 @@
         "chart": "AX"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 1189,
         "chart": "イ号P"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1476,
         "chart": "igouAX"
@@ -2134,8 +2190,9 @@
       "composer": "siromaru＋cranky",
       "release": "2024-01-17",
       "update_version": "1.14.0",
-      "bpm": 160,
       "length": 134,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "0038"
     },
     "data": {
@@ -2158,7 +2215,7 @@
         "chart": "AxEradaS [desperate conflict]"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1237,
         "chart": "AxEradaS [desperate conflict]"
@@ -2172,8 +2229,9 @@
       "composer": "すりぃ",
       "release": "2023-05-30",
       "update_version": "1.9.0",
-      "bpm": 145,
       "length": 153,
+      "bpm_min": 145,
+      "bpm_max": 145,
       "jacket_number": "0039"
     },
     "data": {
@@ -2196,7 +2254,7 @@
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1143,
         "chart": "TangScend"
@@ -2210,8 +2268,9 @@
       "composer": "eicateve",
       "release": "2022-08-11",
       "update_version": "1.2.0",
-      "bpm": 192,
       "length": 150,
+      "bpm_min": 192,
+      "bpm_max": 192,
       "jacket_number": "003a"
     },
     "data": {
@@ -2222,7 +2281,7 @@
         "chart": "j!ang×TangScend×DarkM"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 579,
         "chart": "j!ang×TangScend×DarkM"
@@ -2234,7 +2293,7 @@
         "chart": "j!ang×TangScend×DarkM"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1026,
         "chart": "j!ang×TangScend×DarkM"
@@ -2248,8 +2307,9 @@
       "composer": "Yasuha",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 111,
       "length": 145,
+      "bpm_min": 111,
+      "bpm_max": 111,
       "jacket_number": "003b"
     },
     "data": {
@@ -2266,13 +2326,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 899,
         "chart": "イ号P"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1039,
         "chart": "イ号P"
@@ -2286,8 +2346,9 @@
       "composer": "eicateve",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 190,
       "length": 142,
+      "bpm_min": 190,
+      "bpm_max": 190,
       "jacket_number": "003c"
     },
     "data": {
@@ -2310,7 +2371,7 @@
         "chart": "AngrierB×TPRT Wen×AxEradaS"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 958,
         "chart": "AngrierB×TPRT Wen×AxEradaS"
@@ -2324,8 +2385,9 @@
       "composer": "テヅカ×Yunosuke",
       "release": "2022-06-06",
       "update_version": "1.0.3",
-      "bpm": 170,
       "length": 170,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "003d"
     },
     "data": {
@@ -2348,7 +2410,7 @@
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1013,
         "chart": "TPRT Wen"
@@ -2362,8 +2424,9 @@
       "composer": "テヅカ×Yunosuke",
       "release": "2023-08-30",
       "update_version": "1.11.0",
-      "bpm": 150,
       "length": 212,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "003e"
     },
     "data": {
@@ -2380,13 +2443,13 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 640,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1582,
         "chart": "TPRT Wen"
@@ -2400,8 +2463,9 @@
       "composer": "Silentroom",
       "release": "2023-04-07",
       "update_version": "1.8.0",
-      "bpm": 157,
       "length": 126,
+      "bpm_min": 157,
+      "bpm_max": 157,
       "jacket_number": "003f"
     },
     "data": {
@@ -2412,19 +2476,19 @@
         "chart": "TangScend"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 424,
         "chart": "TangScend"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 842,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1189,
         "chart": "TangScend"
@@ -2438,8 +2502,9 @@
       "composer": "Sobrem a.k.a. Widowmaker",
       "release": "2023-10-19",
       "update_version": "1.12.0",
-      "bpm": 152,
       "length": 136,
+      "bpm_min": 152,
+      "bpm_max": 152,
       "jacket_number": "0040"
     },
     "data": {
@@ -2462,7 +2527,7 @@
         "chart": "闇靈＆イ号P"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1180,
         "chart": "闇靈＆イ号P"
@@ -2476,8 +2541,9 @@
       "composer": "天々まる（prod.Ponchi♪）",
       "release": "2024-07-18",
       "update_version": "2.1.0",
-      "bpm": 155,
       "length": 131,
+      "bpm_min": 155,
+      "bpm_max": 155,
       "jacket_number": "0041"
     },
     "data": {
@@ -2500,7 +2566,7 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1561,
         "chart": "Adashi"
@@ -2514,8 +2580,9 @@
       "composer": "HyuN",
       "release": "2022-08-11",
       "update_version": "1.2.0",
-      "bpm": 192,
       "length": 135,
+      "bpm_min": 192,
+      "bpm_max": 192,
       "jacket_number": "0042"
     },
     "data": {
@@ -2538,7 +2605,7 @@
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 970,
         "chart": "イ号P×TangScend×TPRT Wen"
@@ -2552,8 +2619,9 @@
       "composer": "nm-y＆7mai",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 174,
       "length": 141,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "0043"
     },
     "data": {
@@ -2570,13 +2638,13 @@
         "chart": "qot"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 537,
         "chart": "qot"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1235,
         "chart": "qot"
@@ -2590,8 +2658,9 @@
       "composer": "PinocchioP",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 148,
       "length": 128,
+      "bpm_min": 148,
+      "bpm_max": 148,
       "jacket_number": "0044"
     },
     "data": {
@@ -2608,7 +2677,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 710,
         "chart": "イ号P"
@@ -2628,8 +2697,9 @@
       "composer": "BilliumMoto × Silentroom",
       "release": "2023-08-30",
       "update_version": "1.11.0",
-      "bpm": 180,
       "length": 186,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0045"
     },
     "data": {
@@ -2646,13 +2716,13 @@
         "chart": "ScendRez"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 789,
         "chart": "ScendRez"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1122,
         "chart": "ScendRez"
@@ -2666,8 +2736,9 @@
       "composer": "ETIA.",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 150,
       "length": 164,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "0046"
     },
     "data": {
@@ -2684,16 +2755,22 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 1104,
         "chart": "Adashi"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
-        "notes": 11211972,
+        "notes": 1197,
         "chart": "AngrierB"
+      },
+      "5": {
+        "level": "13+",
+        "const": 13.9,
+        "notes": 1876,
+        "chart": "Ada▥hi"
       }
     }
   },
@@ -2704,8 +2781,9 @@
       "composer": "Laur",
       "release": "2024-03-07",
       "update_version": "1.15.0",
-      "bpm": 110,
       "length": 148,
+      "bpm_min": 110,
+      "bpm_max": 110,
       "jacket_number": "0047"
     },
     "data": {
@@ -2722,13 +2800,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 1060,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1354,
         "chart": "TangScend"
@@ -2742,8 +2820,9 @@
       "composer": "iTIC",
       "release": "2023-12-08",
       "update_version": "1.13.2",
-      "bpm": 200,
       "length": 149,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "0048"
     },
     "data": {
@@ -2780,8 +2859,9 @@
       "composer": "WAiKURO",
       "release": "2024-04-18",
       "update_version": "1.16.0",
-      "bpm": 192,
       "length": 172,
+      "bpm_min": 192,
+      "bpm_max": 192,
       "jacket_number": "0049"
     },
     "data": {
@@ -2798,7 +2878,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 1068,
         "chart": "TangScend"
@@ -2818,8 +2898,9 @@
       "composer": "RiraN",
       "release": "2023-12-24",
       "update_version": "1.13.3",
-      "bpm": 150,
       "length": 150,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "004a"
     },
     "data": {
@@ -2842,7 +2923,7 @@
         "chart": "JAKASY IN THE DAYDREAM"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1390,
         "chart": "JAKASY IN THE DAYDREAM"
@@ -2856,8 +2937,9 @@
       "composer": "DJ Myosuke＆Laur",
       "release": "2024-03-07",
       "update_version": "1.15.0",
-      "bpm": 200,
       "length": 148,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "004b"
     },
     "data": {
@@ -2874,7 +2956,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 911,
         "chart": "j!ang"
@@ -2894,8 +2976,9 @@
       "composer": "Evin a'k",
       "release": "2023-07-05",
       "update_version": "1.10.0",
-      "bpm": 197,
       "length": 144,
+      "bpm_min": 197,
+      "bpm_max": 197,
       "jacket_number": "004c"
     },
     "data": {
@@ -2912,7 +2995,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 566,
         "chart": "Jakasy"
@@ -2932,8 +3015,9 @@
       "composer": "PYKAMIA vs. Sakuzyo",
       "release": "2024-08-08",
       "update_version": "2.1.1",
-      "bpm": 170,
       "length": 144,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "004d"
     },
     "data": {
@@ -2970,8 +3054,9 @@
       "composer": "Sobrem & 庭師",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 220,
       "length": 131,
+      "bpm_min": 220,
+      "bpm_max": 220,
       "jacket_number": "004e"
     },
     "data": {
@@ -2994,7 +3079,7 @@
         "chart": "AngrierB"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1496,
         "chart": "AngrierB"
@@ -3008,8 +3093,9 @@
       "composer": "MYUKKE.",
       "release": "2022-07-04",
       "update_version": "1.1.0",
-      "bpm": 170,
       "length": 140,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "004f"
     },
     "data": {
@@ -3020,7 +3106,7 @@
         "chart": "イ号P"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 630,
         "chart": "イ号P"
@@ -3046,8 +3132,9 @@
       "composer": "nora2r",
       "release": "2022-07-04",
       "update_version": "1.1.0",
-      "bpm": 180,
       "length": 129,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0050"
     },
     "data": {
@@ -3084,8 +3171,9 @@
       "composer": "ぺのれり(penoreri)",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 182,
       "length": 138,
+      "bpm_min": 182,
+      "bpm_max": 182,
       "jacket_number": "0051"
     },
     "data": {
@@ -3122,8 +3210,9 @@
       "composer": "Tatsh",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 182,
       "length": 138,
+      "bpm_min": 182,
+      "bpm_max": 182,
       "jacket_number": "0052"
     },
     "data": {
@@ -3140,7 +3229,7 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 996,
         "chart": "AxEradaS"
@@ -3160,8 +3249,9 @@
       "composer": "DECO*27",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 192,
       "length": 149,
+      "bpm_min": 192,
+      "bpm_max": 192,
       "jacket_number": "0053"
     },
     "data": {
@@ -3198,8 +3288,9 @@
       "composer": "かめりあ feat.ななひら",
       "release": "2024-06-27",
       "update_version": "2.0.2",
-      "bpm": 128,
       "length": 137,
+      "bpm_min": 128,
+      "bpm_max": 128,
       "jacket_number": "0054"
     },
     "data": {
@@ -3216,7 +3307,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 782,
         "chart": "TangScend"
@@ -3236,8 +3327,9 @@
       "composer": "kuro",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 182,
       "length": 145,
+      "bpm_min": 182,
+      "bpm_max": 182,
       "jacket_number": "0055"
     },
     "data": {
@@ -3274,8 +3366,9 @@
       "composer": "KIRA",
       "release": "2023-05-30",
       "update_version": "1.9.0",
-      "bpm": 150,
       "length": 158,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "0056"
     },
     "data": {
@@ -3292,7 +3385,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 380,
         "chart": "j!ang"
@@ -3312,8 +3405,9 @@
       "composer": "Scarlette X Juggernaut.",
       "release": "2023-07-05",
       "update_version": "1.10.0",
-      "bpm": 160,
       "length": 168,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "0057"
     },
     "data": {
@@ -3330,7 +3424,7 @@
         "chart": "闇靈[HARD]"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 682,
         "chart": "闇靈[HARD+]"
@@ -3350,8 +3444,9 @@
       "composer": "uma feat. ましろ",
       "release": "2023-04-07",
       "update_version": "1.8.0",
-      "bpm": 164,
       "length": 124,
+      "bpm_min": 164,
+      "bpm_max": 164,
       "jacket_number": "0058"
     },
     "data": {
@@ -3368,7 +3463,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 661,
         "chart": "j!ang"
@@ -3388,8 +3483,9 @@
       "composer": "KOTONOHOUSE",
       "release": "2022-09-09",
       "update_version": "1.3.0",
-      "bpm": 145,
       "length": 123,
+      "bpm_min": 145,
+      "bpm_max": 145,
       "jacket_number": "0059"
     },
     "data": {
@@ -3400,13 +3496,13 @@
         "chart": "Adashi"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 542,
         "chart": "Adashi"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 635,
         "chart": "Adashi"
@@ -3426,8 +3522,9 @@
       "composer": "Saiph",
       "release": "2024-01-17",
       "update_version": "1.14.0",
-      "bpm": 180,
       "length": 140,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "005a"
     },
     "data": {
@@ -3464,8 +3561,9 @@
       "composer": "Yu_Asahina as Orange Vox+ ft.AKA",
       "release": "2024-01-17",
       "update_version": "1.14.0",
-      "bpm": 140,
       "length": 112,
+      "bpm_min": 140,
+      "bpm_max": 140,
       "jacket_number": "005b"
     },
     "data": {
@@ -3482,7 +3580,7 @@
         "chart": "TangScend [bonne nuit]"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 498,
         "chart": "TangScend [bonne nuit]"
@@ -3502,8 +3600,9 @@
       "composer": "名取さな&西郷・R・いろり（CV.名取さな）&USAGI Project",
       "release": "2024-07-18",
       "update_version": "2.1.0",
-      "bpm": 115,
       "length": 150,
+      "bpm_min": 115,
+      "bpm_max": 115,
       "jacket_number": "005c"
     },
     "data": {
@@ -3526,7 +3625,7 @@
         "chart": "Waphtuos"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 780,
         "chart": "Waphtuos"
@@ -3540,8 +3639,9 @@
       "composer": "BilliumMoto",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 227,
       "length": 157,
+      "bpm_min": 227,
+      "bpm_max": 227,
       "jacket_number": "005d"
     },
     "data": {
@@ -3578,8 +3678,9 @@
       "composer": "Sound Souler",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 192,
       "length": 117,
+      "bpm_min": 192,
+      "bpm_max": 192,
       "jacket_number": "005e"
     },
     "data": {
@@ -3590,7 +3691,7 @@
         "chart": "Adashi"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 367,
         "chart": "Adashi"
@@ -3616,8 +3717,9 @@
       "composer": "テヅカ×Qayo",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 174,
       "length": 142,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "005f"
     },
     "data": {
@@ -3654,8 +3756,9 @@
       "composer": "HeavenEGHD",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 185,
       "length": 154,
+      "bpm_min": 185,
+      "bpm_max": 185,
       "jacket_number": "0060"
     },
     "data": {
@@ -3678,7 +3781,7 @@
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 847,
         "chart": "TPRT Wen"
@@ -3692,8 +3795,9 @@
       "composer": "K4Y5",
       "release": "2023-04-07",
       "update_version": "1.8.0",
-      "bpm": 0,
       "length": 131,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0061"
     },
     "data": {
@@ -3710,7 +3814,7 @@
         "chart": "みかんのはる"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 624,
         "chart": "みかんのはる"
@@ -3730,8 +3834,9 @@
       "composer": "DJ Noriken",
       "release": "2024-03-07",
       "update_version": "1.15.0",
-      "bpm": 175,
       "length": 146,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0062"
     },
     "data": {
@@ -3748,7 +3853,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 754,
         "chart": "イ号P"
@@ -3768,8 +3873,9 @@
       "composer": "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)",
       "release": "2022-10-19",
       "update_version": "1.4.0",
-      "bpm": 155,
       "length": 144,
+      "bpm_min": 155,
+      "bpm_max": 155,
       "jacket_number": "0063"
     },
     "data": {
@@ -3806,8 +3912,9 @@
       "composer": "RedMuffleR",
       "release": "2022-07-04",
       "update_version": "1.1.0",
-      "bpm": 180,
       "length": 166,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0064"
     },
     "data": {
@@ -3824,7 +3931,7 @@
         "chart": "闇靈"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 431,
         "chart": "闇靈"
@@ -3844,8 +3951,9 @@
       "composer": "Junk",
       "release": "2022-08-11",
       "update_version": "1.2.0",
-      "bpm": 133,
       "length": 129,
+      "bpm_min": 133,
+      "bpm_max": 133,
       "jacket_number": "0065"
     },
     "data": {
@@ -3862,7 +3970,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 695,
         "chart": "TPRT Wen"
@@ -3882,8 +3990,9 @@
       "composer": "PinocchioP",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 142,
       "length": 165,
+      "bpm_min": 142,
+      "bpm_max": 142,
       "jacket_number": "0066"
     },
     "data": {
@@ -3920,8 +4029,9 @@
       "composer": "Yooh",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 160,
       "length": 150,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "0067"
     },
     "data": {
@@ -3938,7 +4048,7 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 1087,
         "chart": "Adashi"
@@ -3958,8 +4068,9 @@
       "composer": "Jun Kuroda",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 0,
       "length": 157,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0068"
     },
     "data": {
@@ -3996,8 +4107,9 @@
       "composer": "HyuN feat.蔡花零",
       "release": "2022-09-09",
       "update_version": "1.3.0",
-      "bpm": 180,
       "length": 143,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0069"
     },
     "data": {
@@ -4014,7 +4126,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 809,
         "chart": "イ号P"
@@ -4034,8 +4146,9 @@
       "composer": "茶鸣拾贰律",
       "release": "2023-12-05",
       "update_version": "1.13.0",
-      "bpm": 128,
       "length": 150,
+      "bpm_min": 128,
+      "bpm_max": 128,
       "jacket_number": "006a"
     },
     "data": {
@@ -4052,7 +4165,7 @@
         "chart": "AngrierB From the East"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 873,
         "chart": "AngrierB From the East"
@@ -4072,8 +4185,9 @@
       "composer": "BlackY feat. Risa Yuzuki",
       "release": "2024-08-29",
       "update_version": "2.2.0",
-      "bpm": 178,
       "length": 155,
+      "bpm_min": 178,
+      "bpm_max": 178,
       "jacket_number": "006b"
     },
     "data": {
@@ -4110,8 +4224,9 @@
       "composer": "KOTONOHOUSE feat.穆小泠",
       "release": "2024-02-08",
       "update_version": "1.14.1",
-      "bpm": 144,
       "length": 195,
+      "bpm_min": 144,
+      "bpm_max": 144,
       "jacket_number": "006c"
     },
     "data": {
@@ -4128,13 +4243,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 1124,
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 1398,
         "chart": "j!ang"
@@ -4148,8 +4263,9 @@
       "composer": "SLT",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 180,
       "length": 135,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "006d"
     },
     "data": {
@@ -4172,7 +4288,7 @@
         "chart": "闇靈DarkM"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 891,
         "chart": "闇靈DarkM"
@@ -4186,8 +4302,9 @@
       "composer": "Junk",
       "release": "2023-08-30",
       "update_version": "1.11.0",
-      "bpm": 0,
       "length": 134,
+      "bpm_min": 144,
+      "bpm_max": 144,
       "jacket_number": "006e"
     },
     "data": {
@@ -4204,13 +4321,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 730,
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 967,
         "chart": "j!ang"
@@ -4224,8 +4341,9 @@
       "composer": "天々まる（prod.U-ske）",
       "release": "2024-07-18",
       "update_version": "2.1.0",
-      "bpm": 172,
       "length": 120,
+      "bpm_min": 172,
+      "bpm_max": 172,
       "jacket_number": "006f"
     },
     "data": {
@@ -4242,13 +4360,13 @@
         "chart": "Waphtuos"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 513,
         "chart": "Waphtuos"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1058,
         "chart": "Waphtuos"
@@ -4262,8 +4380,9 @@
       "composer": "RedMuffLeR",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 189,
       "length": 151,
+      "bpm_min": 189,
+      "bpm_max": 189,
       "jacket_number": "0070"
     },
     "data": {
@@ -4280,7 +4399,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 545,
         "chart": "TPRT Wen"
@@ -4300,8 +4419,9 @@
       "composer": "わかどり",
       "release": "2023-10-19",
       "update_version": "1.12.0",
-      "bpm": 151,
       "length": 120,
+      "bpm_min": 151,
+      "bpm_max": 151,
       "jacket_number": "0071"
     },
     "data": {
@@ -4318,7 +4438,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 568,
         "chart": "MF-"
@@ -4338,8 +4458,9 @@
       "composer": "HyuN feat. LyuU",
       "release": "2023-10-19",
       "update_version": "1.12.0",
-      "bpm": 0,
       "length": 155,
+      "bpm_min": 90,
+      "bpm_max": 90,
       "jacket_number": "0072"
     },
     "data": {
@@ -4376,8 +4497,9 @@
       "composer": "432pro &amp; l'avenir proche",
       "release": "2022-11-25",
       "update_version": "1.5.0",
-      "bpm": 177,
       "length": 141,
+      "bpm_min": 177,
+      "bpm_max": 177,
       "jacket_number": "0073"
     },
     "data": {
@@ -4388,19 +4510,19 @@
         "chart": "闇靈-ConTaMiNaTeD-"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 463,
         "chart": "闇靈-ConTaMiNaTeD-"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 696,
         "chart": "闇靈-ConTaMiNaTeD-"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 1383,
         "chart": "闇靈-ConTaMiNaTeD-"
@@ -4414,8 +4536,9 @@
       "composer": "tezuka",
       "release": "2024-4-18",
       "update_version": "1.16.0",
-      "bpm": 210,
       "length": 180,
+      "bpm_min": 210,
+      "bpm_max": 210,
       "jacket_number": "0074"
     },
     "data": {
@@ -4432,7 +4555,7 @@
         "chart": "AX ～残れる氷雪～"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 708,
         "chart": "AX ～残れる氷雪～"
@@ -4452,8 +4575,9 @@
       "composer": "Yunomi&amp;nicamoq",
       "release": "2022-09-09",
       "update_version": "1.3.0",
-      "bpm": 128,
       "length": 194,
+      "bpm_min": 128,
+      "bpm_max": 128,
       "jacket_number": "0075"
     },
     "data": {
@@ -4476,7 +4600,7 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1300,
         "chart": "Adashi"
@@ -4490,8 +4614,9 @@
       "composer": "DECO*27",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 134,
       "length": 155,
+      "bpm_min": 134,
+      "bpm_max": 134,
       "jacket_number": "0076"
     },
     "data": {
@@ -4508,7 +4633,7 @@
         "chart": "PhantoM"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 884,
         "chart": "PhantoM"
@@ -4528,8 +4653,9 @@
       "composer": "Kijibato",
       "release": "2024-07-18",
       "update_version": "2.1.0",
-      "bpm": 160,
       "length": 145,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "0077"
     },
     "data": {
@@ -4546,13 +4672,13 @@
         "chart": "魔法使☆闇靈☆"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 632,
         "chart": "魔法使☆闇靈☆"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 975,
         "chart": "魔法使☆闇靈☆"
@@ -4566,8 +4692,9 @@
       "composer": "Srav3R＆USAO",
       "release": "2024-03-07",
       "update_version": "1.15.0",
-      "bpm": 175,
       "length": 150,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0078"
     },
     "data": {
@@ -4584,13 +4711,13 @@
         "chart": "AXERA＆再瞬"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 780,
         "chart": "AXERA＆再瞬"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1274,
         "chart": "AXERA＆再瞬"
@@ -4604,8 +4731,9 @@
       "composer": "Yooh vs. siromaru",
       "release": "2024-08-29",
       "update_version": "2.2.0",
-      "bpm": 160,
       "length": 138,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "0079"
     },
     "data": {
@@ -4622,13 +4750,13 @@
         "chart": "Lost Antagonist"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 780,
         "chart": "Lost Antagonist"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1166,
         "chart": "Lost Antagonist"
@@ -4642,8 +4770,9 @@
       "composer": "Nego_tiator",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 150,
       "length": 146,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "007a"
     },
     "data": {
@@ -4660,13 +4789,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 916,
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1020,
         "chart": "イ号P"
@@ -4680,8 +4809,9 @@
       "composer": "Fujiyori",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 105,
       "length": 152,
+      "bpm_min": 105,
+      "bpm_max": 105,
       "jacket_number": "007b"
     },
     "data": {
@@ -4698,13 +4828,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 835,
         "chart": "Adashi"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 989,
         "chart": "Adashi"
@@ -4718,8 +4848,9 @@
       "composer": "kuro",
       "release": "2023-07-05",
       "update_version": "1.10.0",
-      "bpm": 203,
       "length": 121,
+      "bpm_min": 203,
+      "bpm_max": 203,
       "jacket_number": "007c"
     },
     "data": {
@@ -4736,13 +4867,13 @@
         "chart": "RHEZΘBAR"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 670,
         "chart": "RHEZΘBAR"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 962,
         "chart": "RHEZΘBAR"
@@ -4756,8 +4887,9 @@
       "composer": "Jun Kuroda",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 186,
       "length": 114,
+      "bpm_min": 186,
+      "bpm_max": 186,
       "jacket_number": "007d"
     },
     "data": {
@@ -4774,7 +4906,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 727,
         "chart": "TangScend"
@@ -4794,8 +4926,9 @@
       "composer": "影虎。",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 0,
       "length": 141,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "007e"
     },
     "data": {
@@ -4812,16 +4945,22 @@
         "chart": "AXERA"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 997,
         "chart": "AXERA"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1154,
         "chart": "TPRT Wen"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.2,
+        "notes": 1407,
+        "chart": "AXERA"
       }
     }
   },
@@ -4832,8 +4971,9 @@
       "composer": "Nagiha",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 191,
       "length": 138,
+      "bpm_min": 191,
+      "bpm_max": 191,
       "jacket_number": "007f"
     },
     "data": {
@@ -4856,7 +4996,7 @@
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 883,
         "chart": "イ号P"
@@ -4870,8 +5010,9 @@
       "composer": "DECO*27",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 164,
       "length": 177,
+      "bpm_min": 164,
+      "bpm_max": 164,
       "jacket_number": "0080"
     },
     "data": {
@@ -4888,13 +5029,13 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 1005,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1387,
         "chart": "TPRT Wen"
@@ -4908,8 +5049,9 @@
       "composer": "Sta",
       "release": "2024-04-18",
       "update_version": "1.16.0",
-      "bpm": 140,
       "length": 155,
+      "bpm_min": 140,
+      "bpm_max": 140,
       "jacket_number": "0081"
     },
     "data": {
@@ -4932,7 +5074,7 @@
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 1229,
         "chart": "j!ang"
@@ -4946,8 +5088,9 @@
       "composer": "モリモリあつし",
       "release": "2023-05-03",
       "update_version": "1.8.2",
-      "bpm": 150,
       "length": 126,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "0082"
     },
     "data": {
@@ -4964,13 +5107,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 586,
         "chart": "TangScend"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 889,
         "chart": "TangScend"
@@ -4984,8 +5127,9 @@
       "composer": "TSAR feat.aran",
       "release": "2024-07-18",
       "update_version": "2.1.0",
-      "bpm": 0,
       "length": 208,
+      "bpm_min": 170,
+      "bpm_max": 190,
       "jacket_number": "0083"
     },
     "data": {
@@ -5002,13 +5146,13 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 1128,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1665,
         "chart": "TPRT Wen"
@@ -5022,8 +5166,9 @@
       "composer": "Aoi",
       "release": "2022-07-04",
       "update_version": "1.1.0",
-      "bpm": 174,
       "length": 124,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "0084"
     },
     "data": {
@@ -5040,13 +5185,13 @@
         "chart": "a.x.e.r.a."
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 701,
         "chart": "a.x.e.r.a."
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1075,
         "chart": "a.x.e.r.a."
@@ -5060,8 +5205,9 @@
       "composer": "aran",
       "release": "2023-02-28",
       "update_version": "1.7.0",
-      "bpm": 180,
       "length": 140,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0085"
     },
     "data": {
@@ -5078,13 +5224,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 789,
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1172,
         "chart": "イ号P"
@@ -5098,8 +5244,9 @@
       "composer": "ユアミトス",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 185,
       "length": 164,
+      "bpm_min": 185,
+      "bpm_max": 185,
       "jacket_number": "0086"
     },
     "data": {
@@ -5122,10 +5269,16 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1290,
         "chart": "TangScend"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.3,
+        "notes": 1747,
+        "chart": "Adashi"
       }
     }
   },
@@ -5136,8 +5289,9 @@
       "composer": "M2U",
       "release": "2024-02-08",
       "update_version": "1.14.1",
-      "bpm": 170,
       "length": 95,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "0087"
     },
     "data": {
@@ -5160,7 +5314,7 @@
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 707,
         "chart": "AxEradaS"
@@ -5174,8 +5328,9 @@
       "composer": "みーに",
       "release": "2023-04-07",
       "update_version": "1.8.0",
-      "bpm": 150,
       "length": 128,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "0088"
     },
     "data": {
@@ -5198,7 +5353,7 @@
         "chart": "アクセラ・アナザー・ラウンド"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 1121,
         "chart": "アクセラ・アナザー・ラウンド"
@@ -5212,8 +5367,9 @@
       "composer": "UnD3ath",
       "release": "2022-12-23",
       "update_version": "1.5.1",
-      "bpm": 154,
       "length": 152,
+      "bpm_min": 154,
+      "bpm_max": 154,
       "jacket_number": "0089"
     },
     "data": {
@@ -5236,7 +5392,7 @@
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 872,
         "chart": "j!ang"
@@ -5250,8 +5406,9 @@
       "composer": "TAG feat. HyuN",
       "release": "2023-04-07",
       "update_version": "1.8.0",
-      "bpm": 180,
       "length": 141,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "008a"
     },
     "data": {
@@ -5268,13 +5425,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 847,
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1248,
         "chart": "イ号P"
@@ -5288,8 +5445,9 @@
       "composer": "Alice Schach and the Music Orchestra",
       "release": "2024-4-18",
       "update_version": "1.16.0",
-      "bpm": 210,
       "length": 155,
+      "bpm_min": 210,
+      "bpm_max": 210,
       "jacket_number": "008b"
     },
     "data": {
@@ -5306,7 +5464,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 1027,
         "chart": "明日"
@@ -5326,8 +5484,9 @@
       "composer": "Aiobahn feat. KOTOKO",
       "release": "2023-12-08",
       "update_version": "1.13.2",
-      "bpm": 163,
       "length": 0,
+      "bpm_min": 163,
+      "bpm_max": 163,
       "jacket_number": "008c"
     },
     "data": {
@@ -5344,13 +5503,13 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 616,
         "chart": "闇靈DarkM"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 1288,
         "chart": "闇靈DarkM"
@@ -5364,8 +5523,9 @@
       "composer": "REDALiCE",
       "release": "2023-02-28",
       "update_version": "1.7.0",
-      "bpm": 169,
       "length": 134,
+      "bpm_min": 169,
+      "bpm_max": 169,
       "jacket_number": "008d"
     },
     "data": {
@@ -5382,13 +5542,13 @@
         "chart": "TangScend as \"VERTEXTENDER\""
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 743,
         "chart": "TangScend as \"VERTEXTENDER\""
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1036,
         "chart": "TangScend as \"VERTEXTENDER\""
@@ -5402,8 +5562,9 @@
       "composer": "みーに feat. みちとせ",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 170,
       "length": 150,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "008e"
     },
     "data": {
@@ -5420,13 +5581,13 @@
         "chart": "AXERA"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 758,
         "chart": "AXERA"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1062,
         "chart": "AXERA"
@@ -5440,8 +5601,9 @@
       "composer": "seatrus",
       "release": "2023-08-30",
       "update_version": "1.11.0",
-      "bpm": 180,
       "length": 169,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "008f"
     },
     "data": {
@@ -5458,13 +5620,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 983,
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 1203,
         "chart": "イ号P"
@@ -5478,8 +5640,9 @@
       "composer": "Junk",
       "release": "2023-05-03",
       "update_version": "1.8.2",
-      "bpm": 144,
       "length": 141,
+      "bpm_min": 144,
+      "bpm_max": 144,
       "jacket_number": "0090"
     },
     "data": {
@@ -5496,13 +5659,13 @@
         "chart": "Pilot:Jakasy"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 612,
         "chart": "Pilot:Jakasy"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1497,
         "chart": "Pilot:Jakasy"
@@ -5516,8 +5679,9 @@
       "composer": "USAO",
       "release": "2023-02-28",
       "update_version": "1.7.0",
-      "bpm": 210,
       "length": 127,
+      "bpm_min": 210,
+      "bpm_max": 210,
       "jacket_number": "0091"
     },
     "data": {
@@ -5534,7 +5698,7 @@
         "chart": "再瞬 & AXERA"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 744,
         "chart": "再瞬 & AXERA"
@@ -5554,8 +5718,9 @@
       "composer": "白百合リリィ&amp;USAGI Production",
       "release": "2024-07-18",
       "update_version": "2.1.0",
-      "bpm": 103,
       "length": 140,
+      "bpm_min": 103,
+      "bpm_max": 103,
       "jacket_number": "0092"
     },
     "data": {
@@ -5572,13 +5737,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 771,
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 858,
         "chart": "j!ang"
@@ -5592,8 +5757,9 @@
       "composer": "HyuN feat. トコノコα",
       "release": "2022-07-27",
       "update_version": "1.1.2",
-      "bpm": 172,
       "length": 120,
+      "bpm_min": 172,
+      "bpm_max": 172,
       "jacket_number": "0093"
     },
     "data": {
@@ -5610,13 +5776,13 @@
         "chart": "闇靈"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 402,
         "chart": "闇靈"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 638,
         "chart": "闇靈"
@@ -5630,8 +5796,9 @@
       "composer": "PinocchioP",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 145,
       "length": 145,
+      "bpm_min": 145,
+      "bpm_max": 145,
       "jacket_number": "0094"
     },
     "data": {
@@ -5648,7 +5815,7 @@
         "chart": "♡⇐AXERA⇒♡"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 849,
         "chart": "♡⇐AXERA⇒♡"
@@ -5668,8 +5835,9 @@
       "composer": "FallN Leav",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 210,
       "length": 139,
+      "bpm_min": 210,
+      "bpm_max": 210,
       "jacket_number": "0095"
     },
     "data": {
@@ -5706,8 +5874,9 @@
       "composer": "HAMA",
       "release": "2023-07-05",
       "update_version": "1.10.0",
-      "bpm": 175,
       "length": 119,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0096"
     },
     "data": {
@@ -5724,7 +5893,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 620,
         "chart": "イ号P"
@@ -5744,8 +5913,9 @@
       "composer": "NeLiME",
       "release": "2023-04-07",
       "update_version": "1.8.0",
-      "bpm": 160,
       "length": 140,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "0097"
     },
     "data": {
@@ -5762,7 +5932,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 507,
         "chart": "Jakasy"
@@ -5782,8 +5952,9 @@
       "composer": "kradness",
       "release": "2023-07-05",
       "update_version": "1.10.0",
-      "bpm": 126,
       "length": 154,
+      "bpm_min": 126,
+      "bpm_max": 126,
       "jacket_number": "0098"
     },
     "data": {
@@ -5800,7 +5971,7 @@
         "chart": "↓AXERA↓"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 866,
         "chart": "↓AXERA↓"
@@ -5820,8 +5991,9 @@
       "composer": "connexio",
       "release": "2024-02-08",
       "update_version": "1.14.1",
-      "bpm": 167,
       "length": 138,
+      "bpm_min": 167,
+      "bpm_max": 167,
       "jacket_number": "0099"
     },
     "data": {
@@ -5838,7 +6010,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 813,
         "chart": "イ号P"
@@ -5858,8 +6030,9 @@
       "composer": "すこっぷ",
       "release": "2023-05-30",
       "update_version": "1.9.0",
-      "bpm": 90,
       "length": 141,
+      "bpm_min": 90,
+      "bpm_max": 90,
       "jacket_number": "009a"
     },
     "data": {
@@ -5896,8 +6069,9 @@
       "composer": "VeetaCrush",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 202,
       "length": 152,
+      "bpm_min": 202,
+      "bpm_max": 202,
       "jacket_number": "009b"
     },
     "data": {
@@ -5934,8 +6108,9 @@
       "composer": "Neutral Moon",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 174,
       "length": 143,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "009c"
     },
     "data": {
@@ -5972,8 +6147,9 @@
       "composer": "NeLiME",
       "release": "2023-08-30",
       "update_version": "1.11.0",
-      "bpm": 128,
       "length": 139,
+      "bpm_min": 128,
+      "bpm_max": 128,
       "jacket_number": "009d"
     },
     "data": {
@@ -5990,7 +6166,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 750,
         "chart": "j!ang"
@@ -6010,8 +6186,9 @@
       "composer": "t+pazolite ＆ Srav3R",
       "release": "2024-03-07",
       "update_version": "1.15.0",
-      "bpm": 180,
       "length": 156,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "009e"
     },
     "data": {
@@ -6028,7 +6205,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 799,
         "chart": "TPRT Wen"
@@ -6048,8 +6225,9 @@
       "composer": "K-forest",
       "release": "2023-12-05",
       "update_version": "1.13.0",
-      "bpm": 185,
       "length": 128,
+      "bpm_min": 185,
+      "bpm_max": 185,
       "jacket_number": "009f"
     },
     "data": {
@@ -6086,8 +6264,9 @@
       "composer": "SLT",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 190,
       "length": 108,
+      "bpm_min": 190,
+      "bpm_max": 190,
       "jacket_number": "00a0"
     },
     "data": {
@@ -6104,7 +6283,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 718,
         "chart": "TangScend"
@@ -6124,8 +6303,9 @@
       "composer": "MYUKKE.",
       "release": "2023-12-05",
       "update_version": "1.13.0",
-      "bpm": 170,
       "length": 127,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "00a1"
     },
     "data": {
@@ -6162,8 +6342,9 @@
       "composer": "HARDCORE TANO*C & エリザベス（CV:大西沙織）",
       "release": "2022-10-19",
       "update_version": "1.4.0",
-      "bpm": 185,
       "length": 123,
+      "bpm_min": 185,
+      "bpm_max": 185,
       "jacket_number": "00a2"
     },
     "data": {
@@ -6200,8 +6381,9 @@
       "composer": "Zris feat. Katie",
       "release": "2022-07-04",
       "update_version": "1.1.0",
-      "bpm": 133,
       "length": 129,
+      "bpm_min": 133,
+      "bpm_max": 133,
       "jacket_number": "00a3"
     },
     "data": {
@@ -6218,13 +6400,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 706,
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 840,
         "chart": "j!ang"
@@ -6238,8 +6420,9 @@
       "composer": "Mameyudoufu",
       "release": "2022-09-09",
       "update_version": "1.3.0",
-      "bpm": 113,
       "length": 154,
+      "bpm_min": 113,
+      "bpm_max": 113,
       "jacket_number": "00a4"
     },
     "data": {
@@ -6256,7 +6439,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 441,
         "chart": "j!ang"
@@ -6276,8 +6459,9 @@
       "composer": "ZxNX",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 116,
       "length": 139,
+      "bpm_min": 116,
+      "bpm_max": 116,
       "jacket_number": "00a5"
     },
     "data": {
@@ -6294,7 +6478,7 @@
         "chart": "Chris醬!"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 336,
         "chart": "Chris醬!"
@@ -6314,8 +6498,9 @@
       "composer": "HyuN feat. ウォルピスカーター",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 182,
       "length": 130,
+      "bpm_min": 182,
+      "bpm_max": 182,
       "jacket_number": "00a6"
     },
     "data": {
@@ -6352,8 +6537,9 @@
       "composer": "Mlssionary",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 182,
       "length": 117,
+      "bpm_min": 182,
+      "bpm_max": 182,
       "jacket_number": "00a7"
     },
     "data": {
@@ -6376,7 +6562,7 @@
         "chart": "イ号P"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 909,
         "chart": "イ号P"
@@ -6390,8 +6576,9 @@
       "composer": "Nagiha",
       "release": "2023-12-08",
       "update_version": "1.13.2",
-      "bpm": 159,
       "length": 141,
+      "bpm_min": 159,
+      "bpm_max": 159,
       "jacket_number": "00a8"
     },
     "data": {
@@ -6408,7 +6595,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 638,
         "chart": "Jakasy"
@@ -6428,8 +6615,9 @@
       "composer": "HyuN feat. Syepias",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 200,
       "length": 140,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "00a9"
     },
     "data": {
@@ -6446,13 +6634,13 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 557,
         "chart": "闇靈DarkM"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 873,
         "chart": "闇靈DarkM"
@@ -6466,8 +6654,9 @@
       "composer": "HyuN feat.kradness",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 156,
       "length": 156,
+      "bpm_min": 156,
+      "bpm_max": 156,
       "jacket_number": "00aa"
     },
     "data": {
@@ -6490,7 +6679,7 @@
         "chart": "j!ang"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 862,
         "chart": "j!ang"
@@ -6504,8 +6693,9 @@
       "composer": "稲葉曇",
       "release": "2023-05-30",
       "update_version": "1.9.0",
-      "bpm": 147,
       "length": 181,
+      "bpm_min": 147,
+      "bpm_max": 147,
       "jacket_number": "00ab"
     },
     "data": {
@@ -6522,7 +6712,7 @@
         "chart": "TangScend on the train"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 628,
         "chart": "TangScend on the train"
@@ -6542,8 +6732,9 @@
       "composer": "DRIVE.",
       "release": "2022-11-25",
       "update_version": "1.5.0",
-      "bpm": 162,
       "length": 150,
+      "bpm_min": 162,
+      "bpm_max": 162,
       "jacket_number": "00ac"
     },
     "data": {
@@ -6560,7 +6751,7 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "10.4",
+        "level": "10",
         "const": 10.4,
         "notes": 713,
         "chart": "AxEradaS"
@@ -6580,8 +6771,9 @@
       "composer": "Neko Hacker",
       "release": "2022-09-09",
       "update_version": "1.3.0",
-      "bpm": 140,
       "length": 165,
+      "bpm_min": 140,
+      "bpm_max": 140,
       "jacket_number": "00ad"
     },
     "data": {
@@ -6598,7 +6790,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 661,
         "chart": "闇靈DarkM"
@@ -6618,8 +6810,9 @@
       "composer": "rmk",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 168,
       "length": 140,
+      "bpm_min": 168,
+      "bpm_max": 168,
       "jacket_number": "00ae"
     },
     "data": {
@@ -6656,8 +6849,9 @@
       "composer": "SOTUI & NIKITA",
       "release": "2022-11-25",
       "update_version": "1.5.0",
-      "bpm": 190,
       "length": 0,
+      "bpm_min": 190,
+      "bpm_max": 190,
       "jacket_number": "00af"
     },
     "data": {
@@ -6694,8 +6888,9 @@
       "composer": "Nota",
       "release": "2022-12-23",
       "update_version": "1.5.1",
-      "bpm": 198,
       "length": 146,
+      "bpm_min": 198,
+      "bpm_max": 198,
       "jacket_number": "00b0"
     },
     "data": {
@@ -6712,7 +6907,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 445,
         "chart": "闇靈DarkM"
@@ -6732,8 +6927,9 @@
       "composer": "Kanaria",
       "release": "2022-06-20",
       "update_version": "1.0.7",
-      "bpm": 166,
       "length": 135,
+      "bpm_min": 166,
+      "bpm_max": 166,
       "jacket_number": "00b1"
     },
     "data": {
@@ -6750,7 +6946,7 @@
         "chart": "AXERADAS"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 656,
         "chart": "AXERADAS"
@@ -6770,8 +6966,9 @@
       "composer": "Iris feat. LynH",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 140,
       "length": 148,
+      "bpm_min": 140,
+      "bpm_max": 140,
       "jacket_number": "00b2"
     },
     "data": {
@@ -6788,7 +6985,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 597,
         "chart": "j!ang"
@@ -6808,8 +7005,9 @@
       "composer": "SOTUI x Hundotte",
       "release": "2022-07-27",
       "update_version": "1.1.2",
-      "bpm": 180,
       "length": 125,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "00b3"
     },
     "data": {
@@ -6826,7 +7024,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 424,
         "chart": "闇靈DarkM"
@@ -6846,8 +7044,9 @@
       "composer": "Ref.Isep",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 176,
       "length": 121,
+      "bpm_min": 176,
+      "bpm_max": 176,
       "jacket_number": "00b4"
     },
     "data": {
@@ -6864,7 +7063,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 611,
         "chart": "イ号P"
@@ -6884,8 +7083,9 @@
       "composer": "Silaver & SOTUI",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 159,
       "length": 142,
+      "bpm_min": 159,
+      "bpm_max": 159,
       "jacket_number": "00b5"
     },
     "data": {
@@ -6902,7 +7102,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 654,
         "chart": "闇靈DarkM"
@@ -6922,8 +7122,9 @@
       "composer": "打打だいず",
       "release": "2022-08-11",
       "update_version": "1.2.0",
-      "bpm": 184,
       "length": 140,
+      "bpm_min": 184,
+      "bpm_max": 184,
       "jacket_number": "00b6"
     },
     "data": {
@@ -6940,7 +7141,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 920,
         "chart": "TangScend"
@@ -6960,8 +7161,9 @@
       "composer": "Soba",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 170,
       "length": 157,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "00b7"
     },
     "data": {
@@ -6978,13 +7180,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 517,
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 763,
         "chart": "j!ang"
@@ -6998,8 +7200,9 @@
       "composer": "すりぃ",
       "release": "2023-05-30",
       "update_version": "1.9.0",
-      "bpm": 90,
       "length": 140,
+      "bpm_min": 90,
+      "bpm_max": 90,
       "jacket_number": "00b8"
     },
     "data": {
@@ -7036,8 +7239,9 @@
       "composer": "HyuN",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 160,
       "length": 153,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "00b9"
     },
     "data": {
@@ -7054,13 +7258,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 632,
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 839,
         "chart": "j!ang"
@@ -7074,8 +7278,9 @@
       "composer": "7mai",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 184,
       "length": 118,
+      "bpm_min": 184,
+      "bpm_max": 184,
       "jacket_number": "00ba"
     },
     "data": {
@@ -7092,7 +7297,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 517,
         "chart": "イ号P"
@@ -7112,8 +7317,9 @@
       "composer": "長沼浩太(パパ頑張りました)",
       "release": "2023-08-30",
       "update_version": "1.11.0",
-      "bpm": 104,
       "length": 132,
+      "bpm_min": 104,
+      "bpm_max": 104,
       "jacket_number": "00bb"
     },
     "data": {
@@ -7130,13 +7336,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 540,
         "chart": "Adashi"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 795,
         "chart": "Adashi"
@@ -7150,8 +7356,9 @@
       "composer": "Soba",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 104,
       "length": 168,
+      "bpm_min": 104,
+      "bpm_max": 104,
       "jacket_number": "00bc"
     },
     "data": {
@@ -7168,13 +7375,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 621,
         "chart": "Adashi"
       },
       "4": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 717,
         "chart": "Adashi"
@@ -7188,8 +7395,9 @@
       "composer": "あおぎり高校&amp;USAGI Production",
       "release": "2024-07-18",
       "update_version": "2.1.0",
-      "bpm": 180,
       "length": 142,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "00bd"
     },
     "data": {
@@ -7206,13 +7414,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 587,
         "chart": "TangScend"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 761,
         "chart": "TangScend"
@@ -7226,8 +7434,9 @@
       "composer": "PIKASONIC feat.兰音Reine",
       "release": "2024-02-08",
       "update_version": "1.14.1",
-      "bpm": 125,
       "length": 171,
+      "bpm_min": 125,
+      "bpm_max": 125,
       "jacket_number": "00be"
     },
     "data": {
@@ -7244,7 +7453,7 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 515,
         "chart": "AxEradaS"
@@ -7264,8 +7473,9 @@
       "composer": "Kirara Magic feat. Shion",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 155,
       "length": 140,
+      "bpm_min": 155,
+      "bpm_max": 155,
       "jacket_number": "00bf"
     },
     "data": {
@@ -7282,13 +7492,13 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 402,
         "chart": "イ号P"
       },
       "4": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 540,
         "chart": "イ号P"
@@ -7302,8 +7512,9 @@
       "composer": "Reku Mochizuki",
       "release": "2024-01-17",
       "update_version": "1.14.0",
-      "bpm": 144,
       "length": 107,
+      "bpm_min": 144,
+      "bpm_max": 144,
       "jacket_number": "00c0"
     },
     "data": {
@@ -7320,13 +7531,13 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 592,
         "chart": "TPRT Wen"
       },
       "4": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 958,
         "chart": "TPRT Wen"
@@ -7340,8 +7551,9 @@
       "composer": "Kirara Magic feat. Shiroroll",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 120,
       "length": 188,
+      "bpm_min": 120,
+      "bpm_max": 120,
       "jacket_number": "00c1"
     },
     "data": {
@@ -7358,13 +7570,13 @@
         "chart": "Adashi"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 568,
         "chart": "Adashi"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 805,
         "chart": "Adashi"
@@ -7378,8 +7590,9 @@
       "composer": "Pica",
       "release": "2023-01-16",
       "update_version": "1.6.1",
-      "bpm": 120,
       "length": 128,
+      "bpm_min": 120,
+      "bpm_max": 120,
       "jacket_number": "00c2"
     },
     "data": {
@@ -7396,13 +7609,13 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 427,
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "11.3",
+        "level": "11",
         "const": 11.3,
         "notes": 655,
         "chart": "AxEradaS"
@@ -7416,8 +7629,9 @@
       "composer": "Iris",
       "release": "2023-05-30",
       "update_version": "1.9.0",
-      "bpm": 150,
       "length": 129,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "00c3"
     },
     "data": {
@@ -7434,13 +7648,13 @@
         "chart": "AXERA -All about YOU &amp; ME-"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 642,
         "chart": "AXERA -All about YOU &amp; ME-"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 883,
         "chart": "AXERA -All about YOU &amp; ME-"
@@ -7454,8 +7668,9 @@
       "composer": "ZxNX",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 174,
       "length": 128,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "00c4"
     },
     "data": {
@@ -7478,7 +7693,7 @@
         "chart": "イ号P"
       },
       "4": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 943,
         "chart": "イ号P"
@@ -7492,8 +7707,9 @@
       "composer": "Sad Keyboard Guy feat. AKA",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 165,
       "length": 179,
+      "bpm_min": 165,
+      "bpm_max": 165,
       "jacket_number": "00c5"
     },
     "data": {
@@ -7510,13 +7726,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 967,
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.1",
+        "level": "11",
         "const": 11.1,
         "notes": 1077,
         "chart": "j!ang"
@@ -7530,8 +7746,9 @@
       "composer": "Nota",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 179,
       "length": 162,
+      "bpm_min": 179,
+      "bpm_max": 179,
       "jacket_number": "00c6"
     },
     "data": {
@@ -7548,13 +7765,13 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 404,
         "chart": "j!ang"
       },
       "4": {
-        "level": "11.2",
+        "level": "11",
         "const": 11.2,
         "notes": 846,
         "chart": "j!ang"
@@ -7568,8 +7785,9 @@
       "composer": "HyuN feat. Serentium",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 178,
       "length": 162,
+      "bpm_min": 178,
+      "bpm_max": 178,
       "jacket_number": "00c7"
     },
     "data": {
@@ -7586,7 +7804,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 467,
         "chart": "j!ang"
@@ -7606,8 +7824,9 @@
       "composer": "rmk",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 184,
       "length": 140,
+      "bpm_min": 184,
+      "bpm_max": 184,
       "jacket_number": "00c8"
     },
     "data": {
@@ -7624,7 +7843,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 468,
         "chart": "イ号P"
@@ -7644,8 +7863,9 @@
       "composer": "HyuN & MIIM",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 160,
       "length": 93,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "00c9"
     },
     "data": {
@@ -7662,7 +7882,7 @@
         "chart": "AngrierB"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 363,
         "chart": "AngrierB"
@@ -7682,8 +7902,9 @@
       "composer": "HyuN feat. Ryeorae",
       "release": "2024-05-30",
       "update_version": "2.0.0",
-      "bpm": 88,
       "length": 131,
+      "bpm_min": 88,
+      "bpm_max": 88,
       "jacket_number": "00ca"
     },
     "data": {
@@ -7700,7 +7921,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 410,
         "chart": "j!ang"
@@ -7720,8 +7941,9 @@
       "composer": "Sosop",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 124,
       "length": 114,
+      "bpm_min": 124,
+      "bpm_max": 124,
       "jacket_number": "00cb"
     },
     "data": {
@@ -7738,7 +7960,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 473,
         "chart": "TPRT Wen"
@@ -7758,8 +7980,9 @@
       "composer": "kurobe studio",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 178,
       "length": 127,
+      "bpm_min": 178,
+      "bpm_max": 178,
       "jacket_number": "00cc"
     },
     "data": {
@@ -7776,7 +7999,7 @@
         "chart": "イ号P"
       },
       "3": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 393,
         "chart": "イ号P"
@@ -7796,8 +8019,9 @@
       "composer": "HyuN & MIIM",
       "release": "2024-08-08",
       "update_version": "2.1.1",
-      "bpm": 142,
       "length": 123,
+      "bpm_min": 142,
+      "bpm_max": 142,
       "jacket_number": "00cd"
     },
     "data": {
@@ -7834,8 +8058,9 @@
       "composer": "Iris",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 110,
       "length": 162,
+      "bpm_min": 110,
+      "bpm_max": 110,
       "jacket_number": "00ce"
     },
     "data": {
@@ -7858,7 +8083,7 @@
         "chart": "闇靈DarkM"
       },
       "4": {
-        "level": "10.2",
+        "level": "10",
         "const": 10.2,
         "notes": 778,
         "chart": "闇靈DarkM"
@@ -7872,8 +8097,9 @@
       "composer": "HyuN feat. HUBOG",
       "release": "2022-05-30",
       "update_version": "1.0.3",
-      "bpm": 170,
       "length": 157,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "00cf"
     },
     "data": {
@@ -7890,13 +8116,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.2",
+        "level": "8",
         "const": 8.2,
         "notes": 378,
         "chart": "TangScend"
       },
       "4": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 532,
         "chart": "TangScend"
@@ -7910,8 +8136,9 @@
       "composer": "MYOYA",
       "release": "2022-09-09",
       "update_version": "1.3.0",
-      "bpm": 138,
       "length": 155,
+      "bpm_min": 138,
+      "bpm_max": 138,
       "jacket_number": "00d0"
     },
     "data": {
@@ -7948,8 +8175,9 @@
       "composer": "HyuN feat. Sennzai",
       "release": "2022-09-09",
       "update_version": "1.3.0",
-      "bpm": 114,
       "length": 130,
+      "bpm_min": 114,
+      "bpm_max": 114,
       "jacket_number": "00d1"
     },
     "data": {
@@ -7986,8 +8214,9 @@
       "composer": "Akira Complex",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 152,
       "length": 120,
+      "bpm_min": 152,
+      "bpm_max": 152,
       "jacket_number": "00d2"
     },
     "data": {
@@ -8004,13 +8233,13 @@
         "chart": "Rotaemo -Memoir-"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 905,
         "chart": "Rotaemo -Memoir-"
       },
       "4": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1136,
         "chart": "Rotaemo -Memoir-"
@@ -8024,8 +8253,9 @@
       "composer": "litmus*",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 150,
       "length": 153,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "00d3"
     },
     "data": {
@@ -8042,13 +8272,13 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.1",
+        "level": "8",
         "const": 8.1,
         "notes": 600,
         "chart": "Jakasy"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 1229,
         "chart": "Jakasy"
@@ -8062,8 +8292,9 @@
       "composer": "Yooh",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 160,
       "length": 152,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "00d4"
     },
     "data": {
@@ -8080,13 +8311,13 @@
         "chart": "尼西特nsida"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 791,
         "chart": "尼西特nsida"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1657,
         "chart": "尼西特nsida"
@@ -8100,8 +8331,9 @@
       "composer": "ARForest",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 170,
       "length": 130,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "00d5"
     },
     "data": {
@@ -8118,7 +8350,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 826,
         "chart": "TangScend"
@@ -8138,8 +8370,9 @@
       "composer": "RiraN",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 174,
       "length": 123,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "00d6"
     },
     "data": {
@@ -8156,7 +8389,7 @@
         "chart": "尾号×Adashi"
       },
       "3": {
-        "level": "9.4",
+        "level": "9",
         "const": 9.4,
         "notes": 905,
         "chart": "尾号×Adashi"
@@ -8176,8 +8409,9 @@
       "composer": "黒皇帝 vs MIssionary",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 222,
       "length": 147,
+      "bpm_min": 222,
+      "bpm_max": 222,
       "jacket_number": "00d7"
     },
     "data": {
@@ -8194,13 +8428,13 @@
         "chart": "植物vs.動物"
       },
       "3": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1309,
         "chart": "植物vs.動物"
       },
       "4": {
-        "level": "14.1",
+        "level": "14",
         "const": 14.1,
         "notes": 1904,
         "chart": "植物vs.動物"
@@ -8214,8 +8448,9 @@
       "composer": "立秋",
       "release": "2025-01-02",
       "update_version": "2.5.1",
-      "bpm": 181,
       "length": 95,
+      "bpm_min": 181,
+      "bpm_max": 181,
       "jacket_number": "00d8"
     },
     "data": {
@@ -8232,13 +8467,13 @@
         "chart": "aqatl"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 654,
         "chart": "aqatl"
       },
       "4": {
-        "level": "13.2",
+        "level": "13",
         "const": 13.2,
         "notes": 1073,
         "chart": "aqatl"
@@ -8252,8 +8487,9 @@
       "composer": "litmus*",
       "release": "2024-12-05",
       "update_version": "2.5.0",
-      "bpm": 130,
       "length": 119,
+      "bpm_min": 130,
+      "bpm_max": 130,
       "jacket_number": "00d9"
     },
     "data": {
@@ -8270,13 +8506,13 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 682,
         "chart": "Jakasy"
       },
       "4": {
-        "level": "12.5",
+        "level": "12",
         "const": 12.5,
         "notes": 1383,
         "chart": "Jakasy醬！"
@@ -8290,8 +8526,9 @@
       "composer": "siqlo",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 152,
       "length": 145,
+      "bpm_min": 152,
+      "bpm_max": 152,
       "jacket_number": "00da"
     },
     "data": {
@@ -8308,7 +8545,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 713,
         "chart": "Jakasy"
@@ -8328,8 +8565,9 @@
       "composer": "Junk",
       "release": "2024-10-1",
       "update_version": "2.3.0",
-      "bpm": 133,
       "length": 134,
+      "bpm_min": 133,
+      "bpm_max": 133,
       "jacket_number": "00db"
     },
     "data": {
@@ -8366,8 +8604,9 @@
       "composer": "TSAR feat. 永雏塔菲",
       "release": "2025-01-02",
       "update_version": "2.5.1",
-      "bpm": 130,
       "length": 114,
+      "bpm_min": 130,
+      "bpm_max": 130,
       "jacket_number": "00dc"
     },
     "data": {
@@ -8390,7 +8629,7 @@
         "chart": "lino"
       },
       "4": {
-        "level": "10.3",
+        "level": "10",
         "const": 10.3,
         "notes": 738,
         "chart": "lino"
@@ -8404,8 +8643,9 @@
       "composer": "YUC'e feat. 早稲叽",
       "release": "2025-01-02",
       "update_version": "2.5.1",
-      "bpm": 160,
       "length": 205,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "00dd"
     },
     "data": {
@@ -8422,7 +8662,7 @@
         "chart": "CorpseRT"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 914,
         "chart": "CorpseRT"
@@ -8442,8 +8682,9 @@
       "composer": "RiraN",
       "release": "2024-12-05",
       "update_version": "2.5.0",
-      "bpm": 150,
       "length": 109,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "00de"
     },
     "data": {
@@ -8466,7 +8707,7 @@
         "chart": "AXERA"
       },
       "4": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 881,
         "chart": "AXERA"
@@ -8480,8 +8721,9 @@
       "composer": "ginkiha",
       "release": "2024-12-05",
       "update_version": "2.5.0",
-      "bpm": 175,
       "length": 146,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "00df"
     },
     "data": {
@@ -8498,7 +8740,7 @@
         "chart": "尾号"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 1027,
         "chart": "尾号"
@@ -8518,8 +8760,9 @@
       "composer": "Lime",
       "release": "2024-12-05",
       "update_version": "2.5.0",
-      "bpm": 227,
       "length": 141,
+      "bpm_min": 227,
+      "bpm_max": 227,
       "jacket_number": "00e0"
     },
     "data": {
@@ -8536,7 +8779,7 @@
         "chart": "AngrierB"
       },
       "3": {
-        "level": "10.1",
+        "level": "10",
         "const": 10.1,
         "notes": 928,
         "chart": "闇靈DarkM -In the Wheel of Time-"
@@ -8556,8 +8799,9 @@
       "composer": "F Rabbeat ft. マスタード",
       "release": "2024-12-05",
       "update_version": "2.5.0",
-      "bpm": 185,
       "length": 146,
+      "bpm_min": 185,
+      "bpm_max": 185,
       "jacket_number": "00e1"
     },
     "data": {
@@ -8568,7 +8812,7 @@
         "chart": "IGP"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 829,
         "chart": "IGP @ Rate 7"
@@ -8580,7 +8824,7 @@
         "chart": "IGP @ Rate 10"
       },
       "4": {
-        "level": "13.3",
+        "level": "13",
         "const": 13.3,
         "notes": 1511,
         "chart": "IGP @ Rate 5000T [音暴流舞皆伝]"
@@ -8594,8 +8838,9 @@
       "composer": "Sakuzyo feat. Nikki Simmons",
       "release": "2024-12-05",
       "update_version": "2.5.0",
-      "bpm": 90,
       "length": 175,
+      "bpm_min": 90,
+      "bpm_max": 90,
       "jacket_number": "00e2"
     },
     "data": {
@@ -8612,13 +8857,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 1132,
         "chart": "TangScend"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1835,
         "chart": "TangScend"
@@ -8632,8 +8877,9 @@
       "composer": "uma vs. モリモリあつし",
       "release": "2024-12-05",
       "update_version": "2.5.0",
-      "bpm": 212,
       "length": 139,
+      "bpm_min": 212,
+      "bpm_max": 212,
       "jacket_number": "00e3"
     },
     "data": {
@@ -8650,13 +8896,13 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "12.3",
+        "level": "12",
         "const": 12.3,
         "notes": 841,
         "chart": "TangScend"
       },
       "4": {
-        "level": "14.3",
+        "level": "14",
         "const": 14.3,
         "notes": 1649,
         "chart": "Tangsand x Adashi: Reborn & Newage"
@@ -8670,8 +8916,9 @@
       "composer": "Supa7onyz",
       "release": "2024-10-01",
       "update_version": "2.3.0",
-      "bpm": 125,
       "length": 133,
+      "bpm_min": 125,
+      "bpm_max": 125,
       "jacket_number": "00e4"
     },
     "data": {
@@ -8694,7 +8941,7 @@
         "chart": "AX [Recall:20221208]"
       },
       "4": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 897,
         "chart": "AX [Recall:20221208]"
@@ -8708,8 +8955,9 @@
       "composer": "Lorph & Elexia",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 175,
       "length": 149,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "00e5"
     },
     "data": {
@@ -8726,7 +8974,7 @@
         "chart": "lino"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 698,
         "chart": "lino"
@@ -8746,8 +8994,9 @@
       "composer": "Altermis & Darren",
       "release": "2024-10-31",
       "update_version": "2.4.0",
-      "bpm": 180,
       "length": 145,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "00e6"
     },
     "data": {
@@ -8758,13 +9007,13 @@
         "chart": "Yntotr HP"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 699,
         "chart": "Yntotr HP"
       },
       "3": {
-        "level": "9.5",
+        "level": "9",
         "const": 9.5,
         "notes": 957,
         "chart": "Yntotr HP"
@@ -8784,8 +9033,9 @@
       "composer": "负离子SYNTHETIC feat. 黒澤ノアNOIR",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 180,
       "length": 149,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "00e7"
     },
     "data": {
@@ -8802,7 +9052,7 @@
         "chart": "qot"
       },
       "3": {
-        "level": "8.8",
+        "level": "8+",
         "const": 8.8,
         "notes": 559,
         "chart": "qot"
@@ -8822,8 +9072,9 @@
       "composer": "INuya",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 126,
       "length": 144,
+      "bpm_min": 126,
+      "bpm_max": 126,
       "jacket_number": "00e8"
     },
     "data": {
@@ -8840,13 +9091,13 @@
         "chart": "ani"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 1054,
         "chart": "ani"
       },
       "4": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1346,
         "chart": "ani"
@@ -8860,8 +9111,9 @@
       "composer": "Massive New Krew",
       "release": "2024-03-07",
       "update_version": "1.15.0",
-      "bpm": 150,
       "length": 128,
+      "bpm_min": 150,
+      "bpm_max": 150,
       "jacket_number": "00e9"
     },
     "data": {
@@ -8878,7 +9130,7 @@
         "chart": "AX3RA"
       },
       "3": {
-        "level": "8.7",
+        "level": "8+",
         "const": 8.7,
         "notes": 598,
         "chart": "AX3RA"
@@ -8898,8 +9150,9 @@
       "composer": "ああああ + 打打だいず",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 214,
       "length": 167,
+      "bpm_min": 214,
+      "bpm_max": 214,
       "jacket_number": "00ea"
     },
     "data": {
@@ -8916,7 +9169,7 @@
         "chart": "日光植物"
       },
       "3": {
-        "level": "11.4",
+        "level": "11",
         "const": 11.4,
         "notes": 1355,
         "chart": "日光植物"
@@ -8936,8 +9189,9 @@
       "composer": "Cansol",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 192,
       "length": 144,
+      "bpm_min": 192,
+      "bpm_max": 192,
       "jacket_number": "00eb"
     },
     "data": {
@@ -8960,7 +9214,7 @@
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1400,
         "chart": "j!ang"
@@ -8974,8 +9228,9 @@
       "composer": "Raphiiel",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 157,
       "length": 162,
+      "bpm_min": 157,
+      "bpm_max": 157,
       "jacket_number": "00ec"
     },
     "data": {
@@ -8992,13 +9247,13 @@
         "chart": "Jakasy - \"____\" The World"
       },
       "3": {
-        "level": "8.9",
+        "level": "8+",
         "const": 8.9,
         "notes": 862,
         "chart": "Jakasy - \"____\" The World"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1674,
         "chart": "Jakasy - \"____\" The World"
@@ -9012,8 +9267,9 @@
       "composer": "ShiBa",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 111,
       "length": 134,
+      "bpm_min": 111,
+      "bpm_max": 111,
       "jacket_number": "00ed"
     },
     "data": {
@@ -9030,7 +9286,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "9.3",
+        "level": "9",
         "const": 9.3,
         "notes": 1212,
         "chart": "闇靈DarkM"
@@ -9050,8 +9306,9 @@
       "composer": "7mai",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 178,
       "length": 127,
+      "bpm_min": 178,
+      "bpm_max": 178,
       "jacket_number": "00ee"
     },
     "data": {
@@ -9062,22 +9319,28 @@
         "chart": "イ号P"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 673,
         "chart": "イ号P"
       },
       "3": {
-        "level": "11.5",
+        "level": "11",
         "const": 11.5,
         "notes": 1039,
         "chart": "イ号P"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1268,
         "chart": "イ号P"
+      },
+      "5": {
+        "level": "13+",
+        "const": 13.7,
+        "notes": 1503,
+        "chart": "j!ang"
       }
     }
   },
@@ -9088,8 +9351,9 @@
       "composer": "LucaProject vs NeLiME",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 157,
       "length": 139,
+      "bpm_min": 157,
+      "bpm_max": 157,
       "jacket_number": "00ef"
     },
     "data": {
@@ -9100,19 +9364,19 @@
         "chart": "Adashi"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 827,
         "chart": "TangScend"
       },
       "3": {
-        "level": "12.1",
+        "level": "12",
         "const": 12.1,
         "notes": 1013,
         "chart": "TangScend"
       },
       "4": {
-        "level": "14.4",
+        "level": "14",
         "const": 14.4,
         "notes": 1835,
         "chart": "Adashi x TangScend: \"Iterum Venimus\""
@@ -9126,8 +9390,9 @@
       "composer": "WyvernP",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 140,
       "length": 149,
+      "bpm_min": 140,
+      "bpm_max": 140,
       "jacket_number": "00f0"
     },
     "data": {
@@ -9144,7 +9409,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "8.3",
+        "level": "8",
         "const": 8.3,
         "notes": 748,
         "chart": "TangScend"
@@ -9164,8 +9429,9 @@
       "composer": "Halv",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 132,
       "length": 140,
+      "bpm_min": 132,
+      "bpm_max": 132,
       "jacket_number": "00f1"
     },
     "data": {
@@ -9182,7 +9448,7 @@
         "chart": "lino"
       },
       "3": {
-        "level": "8.6",
+        "level": "8+",
         "const": 8.6,
         "notes": 499,
         "chart": "lino"
@@ -9202,8 +9468,9 @@
       "composer": "uma vs. モリモリあつし",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 240,
       "length": 156,
+      "bpm_min": 240,
+      "bpm_max": 240,
       "jacket_number": "00f2"
     },
     "data": {
@@ -9220,7 +9487,7 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "12.4",
+        "level": "12",
         "const": 12.4,
         "notes": 1236,
         "chart": "AxEradaS"
@@ -9240,8 +9507,9 @@
       "composer": "Reku mochizuki feat.せやかて硝酸太郎",
       "release": "2024-10-1",
       "update_version": "2.3.0",
-      "bpm": 185,
       "length": 124,
+      "bpm_min": 185,
+      "bpm_max": 185,
       "jacket_number": "00f3"
     },
     "data": {
@@ -9258,7 +9526,7 @@
         "chart": "PhantoM"
       },
       "3": {
-        "level": "8.4",
+        "level": "8",
         "const": 8.4,
         "notes": 619,
         "chart": "PhantoM"
@@ -9278,8 +9546,9 @@
       "composer": "Maozon",
       "release": "2024-10-1",
       "update_version": "2.3.0",
-      "bpm": 174,
       "length": 155,
+      "bpm_min": 174,
+      "bpm_max": 174,
       "jacket_number": "00f4"
     },
     "data": {
@@ -9296,7 +9565,7 @@
         "chart": "闇靈DarkM"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 1165,
         "chart": "闇靈DarkM"
@@ -9316,8 +9585,9 @@
       "composer": "Zris",
       "release": "2024-10-1",
       "update_version": "2.3.0",
-      "bpm": 154,
       "length": 120,
+      "bpm_min": 154,
+      "bpm_max": 154,
       "jacket_number": "00f5"
     },
     "data": {
@@ -9334,13 +9604,13 @@
         "chart": "左下"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 1031,
         "chart": "左下"
       },
       "4": {
-        "level": "13.1",
+        "level": "13",
         "const": 13.1,
         "notes": 1285,
         "chart": "左下"
@@ -9354,8 +9624,9 @@
       "composer": "DJ Noriken",
       "release": "2024-10-1",
       "update_version": "2.3.0",
-      "bpm": 168,
       "length": 156,
+      "bpm_min": 168,
+      "bpm_max": 168,
       "jacket_number": "00f6"
     },
     "data": {
@@ -9372,13 +9643,13 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "9.1",
+        "level": "9",
         "const": 9.1,
         "notes": 689,
         "chart": "Jakasy"
       },
       "4": {
-        "level": "13.5",
+        "level": "13",
         "const": 13.5,
         "notes": 1348,
         "chart": "Jakasy[森]"
@@ -9392,8 +9663,9 @@
       "composer": "polysha",
       "release": "2024-10-1",
       "update_version": "2.3.0",
-      "bpm": 170,
       "length": 132,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "00f7"
     },
     "data": {
@@ -9404,7 +9676,7 @@
         "chart": "明日"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 566,
         "chart": "明日"
@@ -9430,8 +9702,9 @@
       "composer": "void (Mournfinale)",
       "release": "2024-10-1",
       "update_version": "2.3.0",
-      "bpm": 110,
       "length": 140,
+      "bpm_min": 110,
+      "bpm_max": 110,
       "jacket_number": "00f8"
     },
     "data": {
@@ -9442,7 +9715,7 @@
         "chart": "Adashi"
       },
       "2": {
-        "level": "7.5",
+        "level": "7",
         "const": 7.5,
         "notes": 1210,
         "chart": "Adashi"
@@ -9454,7 +9727,7 @@
         "chart": "Adashi"
       },
       "4": {
-        "level": "14.3",
+        "level": "14",
         "const": 14.3,
         "notes": 2921,
         "chart": "Plant×Adashi:\"MVURFG\""
@@ -9468,8 +9741,9 @@
       "composer": "memex",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 136,
       "length": 125,
+      "bpm_min": 136,
+      "bpm_max": 136,
       "jacket_number": "00f9"
     },
     "data": {
@@ -9486,7 +9760,7 @@
         "chart": "TPRT Wen"
       },
       "3": {
-        "level": "8.5",
+        "level": "8",
         "const": 8.5,
         "notes": 864,
         "chart": "TPRT Wen"
@@ -9506,8 +9780,9 @@
       "composer": "Neko Hacker",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 155,
       "length": 135,
+      "bpm_min": 155,
+      "bpm_max": 155,
       "jacket_number": "00fa"
     },
     "data": {
@@ -9524,7 +9799,7 @@
         "chart": "Horiztar"
       },
       "3": {
-        "level": "9.2",
+        "level": "9",
         "const": 9.2,
         "notes": 661,
         "chart": "Horiztar"
@@ -9544,8 +9819,9 @@
       "composer": "linear ring",
       "release": "2025-01-27",
       "update_version": "2.6.0",
-      "bpm": 95,
       "length": 128,
+      "bpm_min": 95,
+      "bpm_max": 95,
       "jacket_number": "00fb"
     },
     "data": {
@@ -9562,13 +9838,13 @@
         "chart": "AxEradaS"
       },
       "3": {
-        "level": "10.5",
+        "level": "10",
         "const": 10.5,
         "notes": 856,
         "chart": "AxEradaS"
       },
       "4": {
-        "level": "12.2",
+        "level": "12",
         "const": 12.2,
         "notes": 999,
         "chart": "AxEradaS"
@@ -9582,8 +9858,9 @@
       "composer": "GARNiDELiA",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 140,
       "length": 187,
+      "bpm_min": 140,
+      "bpm_max": 140,
       "jacket_number": "00fc"
     },
     "data": {
@@ -9600,7 +9877,7 @@
         "chart": "Jakasy ~Purity &amp; Happiness~"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.8,
         "notes": 749,
         "chart": "Jakasy ~Purity &amp; Happiness~"
@@ -9620,8 +9897,9 @@
       "composer": "しーけー",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 230,
       "length": 152,
+      "bpm_min": 230,
+      "bpm_max": 230,
       "jacket_number": "00fd"
     },
     "data": {
@@ -9638,7 +9916,7 @@
         "chart": "TangScend"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.9,
         "notes": 992,
         "chart": "TangScend"
@@ -9658,8 +9936,9 @@
       "composer": "Elliot Hsu",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 195,
       "length": 159,
+      "bpm_min": 195,
+      "bpm_max": 195,
       "jacket_number": "00fe"
     },
     "data": {
@@ -9676,7 +9955,7 @@
         "chart": "AXERA in novice village"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.8,
         "notes": 823,
         "chart": "AXERA in novice village"
@@ -9696,8 +9975,9 @@
       "composer": "qfeileadh & レゾナンスもえこ",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 96,
       "length": 145,
+      "bpm_min": 96,
+      "bpm_max": 96,
       "jacket_number": "00ff"
     },
     "data": {
@@ -9714,7 +9994,7 @@
         "chart": "Jakasy"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.7,
         "notes": 809,
         "chart": "イ号P"
@@ -9734,8 +10014,9 @@
       "composer": "Gardens",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 141,
       "length": 181,
+      "bpm_min": 141,
+      "bpm_max": 141,
       "jacket_number": "0100"
     },
     "data": {
@@ -9772,8 +10053,9 @@
       "composer": "Tatsh",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 170,
       "length": 151,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "0101"
     },
     "data": {
@@ -9810,8 +10092,9 @@
       "composer": "Ando",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 180,
       "length": 124,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0102"
     },
     "data": {
@@ -9828,7 +10111,7 @@
         "chart": "植物"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.9,
         "notes": 909,
         "chart": "植物"
@@ -9848,8 +10131,9 @@
       "composer": "INFX & MIIM",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 165,
       "length": 154,
+      "bpm_min": 165,
+      "bpm_max": 165,
       "jacket_number": "0103"
     },
     "data": {
@@ -9886,8 +10170,9 @@
       "composer": "AAAAoi(ああああ+Aoi)",
       "release": "2025-02-27",
       "update_version": "2.7.0",
-      "bpm": 182,
       "length": 118,
+      "bpm_min": 182,
+      "bpm_max": 182,
       "jacket_number": "0104"
     },
     "data": {
@@ -9924,8 +10209,9 @@
       "composer": "LeaF",
       "release": "2025-03-27",
       "update_version": "2.8.0",
-      "bpm": 35,
       "length": 125,
+      "bpm_min": 35,
+      "bpm_max": 35,
       "jacket_number": "0105"
     },
     "data": {
@@ -9968,8 +10254,9 @@
       "composer": "NOMA",
       "release": "2025-03-27",
       "update_version": "2.8.0",
-      "bpm": 170,
       "length": 105,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "0106"
     },
     "data": {
@@ -10006,8 +10293,9 @@
       "composer": "大前司",
       "release": "2025-03-27",
       "update_version": "2.8.0",
-      "bpm": 130,
       "length": 149,
+      "bpm_min": 130,
+      "bpm_max": 130,
       "jacket_number": "0107"
     },
     "data": {
@@ -10024,7 +10312,7 @@
         "chart": "尾号"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.6,
         "notes": 998,
         "chart": "尾号"
@@ -10044,8 +10332,9 @@
       "composer": "LV.4",
       "release": "2025-03-27",
       "update_version": "2.8.0",
-      "bpm": 145,
       "length": 140,
+      "bpm_min": 145,
+      "bpm_max": 145,
       "jacket_number": "0108"
     },
     "data": {
@@ -10062,7 +10351,7 @@
         "chart": "lino"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.6,
         "notes": 988,
         "chart": "lino"
@@ -10088,8 +10377,9 @@
       "composer": "立秋 feat.ちょこ",
       "release": "2025-03-27",
       "update_version": "2.8.0",
-      "bpm": 5,
       "length": 139,
+      "bpm_min": 5,
+      "bpm_max": 5,
       "jacket_number": "0109"
     },
     "data": {
@@ -10126,8 +10416,9 @@
       "composer": "MonstDeath",
       "release": "2025-03-27",
       "update_version": "2.8.0",
-      "bpm": 55,
       "length": 110,
+      "bpm_min": 55,
+      "bpm_max": 55,
       "jacket_number": "010a"
     },
     "data": {
@@ -10170,8 +10461,9 @@
       "composer": "Riya",
       "release": "2025-03-27",
       "update_version": "2.8.0",
-      "bpm": 130,
       "length": 122,
+      "bpm_min": 130,
+      "bpm_max": 130,
       "jacket_number": "010b"
     },
     "data": {
@@ -10208,8 +10500,9 @@
       "composer": "奏音",
       "release": "2025-04-24",
       "update_version": "2.9.0",
-      "bpm": 200,
       "length": 121,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "010c"
     },
     "data": {
@@ -10246,8 +10539,9 @@
       "composer": "Hyphen",
       "release": "2025-04-24",
       "update_version": "2.9.0",
-      "bpm": 195,
       "length": 118,
+      "bpm_min": 195,
+      "bpm_max": 195,
       "jacket_number": "010d"
     },
     "data": {
@@ -10284,8 +10578,9 @@
       "composer": "くるぶっこちゃん",
       "release": "2025-04-24",
       "update_version": "2.9.0",
-      "bpm": 200,
       "length": 130,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "010e"
     },
     "data": {
@@ -10322,8 +10617,9 @@
       "composer": "Se-U-Ra",
       "release": "2025-04-24",
       "update_version": "2.9.0",
-      "bpm": 200,
       "length": 114,
+      "bpm_min": 200,
+      "bpm_max": 200,
       "jacket_number": "010f"
     },
     "data": {
@@ -10366,8 +10662,9 @@
       "composer": "Hidra-Xjeil",
       "release": "2025-04-24",
       "update_version": "2.9.0",
-      "bpm": 190,
       "length": 115,
+      "bpm_min": 190,
+      "bpm_max": 190,
       "jacket_number": "0110"
     },
     "data": {
@@ -10404,8 +10701,9 @@
       "composer": "Farhan",
       "release": "2025-04-24",
       "update_version": "2.9.0",
-      "bpm": 128,
       "length": 130,
+      "bpm_min": 128,
+      "bpm_max": 128,
       "jacket_number": "0111"
     },
     "data": {
@@ -10442,8 +10740,9 @@
       "composer": "otoshi.b",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 185,
       "length": 154,
+      "bpm_min": 185,
+      "bpm_max": 185,
       "jacket_number": "0112"
     },
     "data": {
@@ -10460,7 +10759,7 @@
         "chart": "j!ang"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.8,
         "notes": 864,
         "chart": "j!ang"
@@ -10480,8 +10779,9 @@
       "composer": "Zexnum",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 128,
       "length": 124,
+      "bpm_min": 128,
+      "bpm_max": 128,
       "jacket_number": "0113"
     },
     "data": {
@@ -10518,8 +10818,9 @@
       "composer": "Turbo ft. Moon Jelly",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 175,
       "length": 135,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0114"
     },
     "data": {
@@ -10536,7 +10837,7 @@
         "chart": "IGP(12AM)"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.9,
         "notes": 868,
         "chart": "IGP(2AM)"
@@ -10562,8 +10863,9 @@
       "composer": "U-ske feat. ななひら",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 170,
       "length": 118,
+      "bpm_min": 170,
+      "bpm_max": 170,
       "jacket_number": "0115"
     },
     "data": {
@@ -10606,8 +10908,9 @@
       "composer": "Violet Delta",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 175,
       "length": 146,
+      "bpm_min": 175,
+      "bpm_max": 175,
       "jacket_number": "0116"
     },
     "data": {
@@ -10624,7 +10927,7 @@
         "chart": "lino"
       },
       "3": {
-        "level": "9",
+        "level": "9+",
         "const": 9.7,
         "notes": 822,
         "chart": "lino"
@@ -10644,8 +10947,9 @@
       "composer": "Mono.",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 164.84,
       "length": 112,
+      "bpm_min": 164.84,
+      "bpm_max": 164.84,
       "jacket_number": "0117"
     },
     "data": {
@@ -10688,8 +10992,9 @@
       "composer": "KIRA",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 124,
       "length": 120,
+      "bpm_min": 124,
+      "bpm_max": 124,
       "jacket_number": "0118"
     },
     "data": {
@@ -10706,7 +11011,7 @@
         "chart": "Joker~Clubs~"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.9,
         "notes": 828,
         "chart": "Joker~Diamonds~"
@@ -10732,8 +11037,9 @@
       "composer": "DECO*27",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 132,
       "length": 176,
+      "bpm_min": 132,
+      "bpm_max": 132,
       "jacket_number": "0119"
     },
     "data": {
@@ -10770,8 +11076,9 @@
       "composer": "kemu",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 53,
       "length": 142,
+      "bpm_min": 53,
+      "bpm_max": 53,
       "jacket_number": "011a"
     },
     "data": {
@@ -10814,8 +11121,9 @@
       "composer": "崎元 仁",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 110,
       "length": 130,
+      "bpm_min": 110,
+      "bpm_max": 110,
       "jacket_number": "011b"
     },
     "data": {
@@ -10852,8 +11160,9 @@
       "composer": "MEMODEMO × AQUASINE ^ Moon Jelly",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 145,
       "length": 170,
+      "bpm_min": 145,
+      "bpm_max": 145,
       "jacket_number": "011c"
     },
     "data": {
@@ -10890,8 +11199,9 @@
       "composer": "しーけー",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 180,
       "length": 134,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "011d"
     },
     "data": {
@@ -10928,8 +11238,9 @@
       "composer": "Sound piercer vs. Iriss",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 154,
       "length": 119,
+      "bpm_min": 154,
+      "bpm_max": 154,
       "jacket_number": "011e"
     },
     "data": {
@@ -10966,8 +11277,9 @@
       "composer": "Neko Hacker",
       "release": "2025-05-30",
       "update_version": "2.10.0",
-      "bpm": 160,
       "length": 168,
+      "bpm_min": 160,
+      "bpm_max": 160,
       "jacket_number": "011f"
     },
     "data": {
@@ -11004,8 +11316,9 @@
       "composer": "H△G",
       "release": "2025-06-23",
       "update_version": "2.11.0",
-      "bpm": 70,
       "length": 138,
+      "bpm_min": 70,
+      "bpm_max": 70,
       "jacket_number": "0120"
     },
     "data": {
@@ -11042,8 +11355,9 @@
       "composer": "onoken feat. 木下珠子",
       "release": "2025-06-23",
       "update_version": "2.11.0",
-      "bpm": 85,
       "length": 121,
+      "bpm_min": 85,
+      "bpm_max": 85,
       "jacket_number": "0121"
     },
     "data": {
@@ -11080,8 +11394,9 @@
       "composer": "effe",
       "release": "2025-06-23",
       "update_version": "2.11.0",
-      "bpm": 182,
       "length": 138,
+      "bpm_min": 182,
+      "bpm_max": 182,
       "jacket_number": "0122"
     },
     "data": {
@@ -11098,7 +11413,7 @@
         "chart": "Blue AXERA"
       },
       "3": {
-        "level": "8",
+        "level": "8+",
         "const": 8.6,
         "notes": 657,
         "chart": "Blue AXERA"
@@ -11118,8 +11433,9 @@
       "composer": "Tomggg (feat. m/lue. )",
       "release": "2025-06-23",
       "update_version": "2.11.0",
-      "bpm": 195,
       "length": 138,
+      "bpm_min": 195,
+      "bpm_max": 195,
       "jacket_number": "0123"
     },
     "data": {
@@ -11156,8 +11472,9 @@
       "composer": "Taishi",
       "release": "2025-06-23",
       "update_version": "2.11.0",
-      "bpm": 180,
       "length": 158,
+      "bpm_min": 180,
+      "bpm_max": 180,
       "jacket_number": "0124"
     },
     "data": {
@@ -11194,8 +11511,9 @@
       "composer": "technoplanet",
       "release": "2025-06-23",
       "update_version": "2.11.0",
-      "bpm": 220,
       "length": 165,
+      "bpm_min": 220,
+      "bpm_max": 220,
       "jacket_number": "0125"
     },
     "data": {
@@ -11222,6 +11540,240 @@
         "const": 14.1,
         "notes": 1921,
         "chart": "TPRT Wen"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Smile-mileS",
+      "genre": "Base Songs",
+      "composer": "onoken",
+      "release": "2025-07-17",
+      "update_version": "2.12.0",
+      "length": 155,
+      "bpm_min": 214,
+      "bpm_max": 214,
+      "jacket_number": "0126"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 558,
+        "chart": "TangScend"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 638,
+        "chart": "TangScend"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 858,
+        "chart": "TangScend"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.7,
+        "notes": 1478,
+        "chart": "TangScend"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Cthugha",
+      "genre": "Mush Dash Collab",
+      "composer": "USAO",
+      "release": "2025-07-17",
+      "update_version": "2.12.0",
+      "length": 154,
+      "bpm_min": 213,
+      "bpm_max": 213,
+      "jacket_number": "0127"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 279,
+        "chart": "PERO CORPSERT"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 496,
+        "chart": "PEROPERO CORPSERT"
+      },
+      "3": {
+        "level": "10",
+        "const": 10.2,
+        "notes": 1079,
+        "chart": "PEROPEROPERO CORPSERT"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.9,
+        "notes": 2483,
+        "chart": "CORPSERT \"The Burning Next One\""
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "つよつよナースブロウちゃん！",
+      "genre": "Mush Dash Collab",
+      "composer": "コバヤシユウヤ(IOSYS)",
+      "release": "2025-07-17",
+      "update_version": "2.12.0",
+      "length": 143,
+      "bpm_min": 170,
+      "bpm_max": 170,
+      "jacket_number": "0128"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 231,
+        "chart": "IGP"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 373,
+        "chart": "IGP"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.0,
+        "notes": 637,
+        "chart": "IGP"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.6,
+        "notes": 979,
+        "chart": "IGP"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "天灵灵地灵灵",
+      "genre": "Mush Dash Collab",
+      "composer": "iKz feat.小可学妹",
+      "release": "2025-07-17",
+      "update_version": "2.12.0",
+      "length": 138,
+      "bpm_min": 155,
+      "bpm_max": 155,
+      "jacket_number": "0129"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 220,
+        "chart": "水靈靈火靈靈"
+      },
+      "2": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 582,
+        "chart": "火靈靈木靈靈"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.8,
+        "notes": 739,
+        "chart": "木靈靈光靈靈"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.1,
+        "notes": 1596,
+        "chart": "光靈靈闇靈靈"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Heartache",
+      "genre": "Mush Dash Collab",
+      "composer": "technoplanet feat. Risa Yuzuki",
+      "release": "2025-07-17",
+      "update_version": "2.12.0",
+      "length": 148,
+      "bpm_min": 152,
+      "bpm_max": 152,
+      "jacket_number": "012a"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 333,
+        "chart": "Jakasy - Devoured by the World, devoured by myself. -"
+      },
+      "2": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 457,
+        "chart": "Jakasy - Devoured by the World, devoured by myself. -"
+      },
+      "3": {
+        "level": "10",
+        "const": 10.0,
+        "notes": 836,
+        "chart": "Jakasy - Devoured by the World, devoured by myself. -"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.9,
+        "notes": 1420,
+        "chart": "Jakasy - Devoured by the World, devoured by myself. -"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ЯUBY:LINTe",
+      "genre": "Mush Dash Collab",
+      "composer": "orangentle",
+      "release": "2025-07-17",
+      "update_version": "2.12.0",
+      "length": 135,
+      "bpm_min": 100,
+      "bpm_max": 230,
+      "jacket_number": "012b"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 552,
+        "chart": "AxEradaS"
+      },
+      "2": {
+        "level": "8",
+        "const": 8.8,
+        "notes": 691,
+        "chart": "AxEradaS"
+      },
+      "3": {
+        "level": "12",
+        "const": 12.4,
+        "notes": 1447,
+        "chart": "AngrierB"
+      },
+      "4": {
+        "level": "14",
+        "const": 14.2,
+        "notes": 1849,
+        "chart": "AngriERA"
       }
     }
   }
