@@ -8,4 +8,4 @@ Discordのアカウントを知っていたらDMしてください。
 知らなかった場合、Twitterのアカウントです。
 https://x.com/mattyakyou_game
 # 入力したバージョン
-ver.2.11.0
+ver.2.12.1
