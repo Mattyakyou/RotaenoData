@@ -11776,5 +11776,278 @@
         "chart": "AngriERA"
       }
     }
+  },
+  {
+    "meta": {
+      "title": "Crossroads of the Brave",
+      "genre": "NOISZ SL + PK GODHAND Collab",
+      "composer": "Miyolophone vs Iris feat. Grace",
+      "release": "2025-08-07",
+      "update_version": "2.12.1",
+      "length": 172,
+      "bpm_min": 190,
+      "bpm_max": 190,
+      "jacket_number": "012c"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 595,
+        "chart": "尾号"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 903,
+        "chart": "尾号"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 1401,
+        "chart": "尾号"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.5,
+        "notes": 2115,
+        "chart": "尾号"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "True",
+      "genre": "NOISZ SL + PK GODHAND Collab",
+      "composer": "Synthion ft. STΔRLIVHT♠♥",
+      "release": "2025-08-07",
+      "update_version": "2.12.1",
+      "length": 116,
+      "bpm_min": 165,
+      "bpm_max": 165,
+      "jacket_number": "012d"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 132,
+        "chart": "Jakasy -For My True-"
+      },
+      "2": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 332,
+        "chart": "Jakasy -For My True-"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.1,
+        "notes": 776,
+        "chart": "Jakasy -For My True-"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.7,
+        "notes": 1234,
+        "chart": "Jakasy -For My True-"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "May",
+      "genre": "NOISZ SL + PK GODHAND Collab",
+      "composer": "ida",
+      "release": "2025-08-07",
+      "update_version": "2.12.1",
+      "length": 176,
+      "bpm_min": 212,
+      "bpm_max": 212,
+      "jacket_number": "012e"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 119,
+        "chart": "TPRT Wen"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 672,
+        "chart": "TPRT Wen"
+      },
+      "3": {
+        "level": "11",
+        "const": 11.2,
+        "notes": 1973,
+        "chart": "PhantoM vs AngrierB"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.9,
+        "notes": 2589,
+        "chart": "PhantoM vs AngrierB: Fight the Fears"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ENERGY SYNERGY MATRIX",
+      "genre": "Tanchiky Selection",
+      "composer": "Tanchiky",
+      "release": "2025-08-07",
+      "update_version": "2.12.1",
+      "length": 123,
+      "bpm_min": 160,
+      "bpm_max": 160,
+      "jacket_number": "012f"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 250,
+        "chart": "I・G・P (POWER)"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 327,
+        "chart": "I・G・P (POWER)"
+      },
+      "3": {
+        "level": "8",
+        "const": 8.7,
+        "notes": 589,
+        "chart": "I・G・P (POWER)"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.3,
+        "notes": 1010,
+        "chart": "I・G・P (POWER)"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ULTRA SYNERGY MATRIX",
+      "genre": "Tanchiky Selection",
+      "composer": "Tanchiky",
+      "release": "2025-08-07",
+      "update_version": "2.12.1",
+      "length": 122,
+      "bpm_min": 160,
+      "bpm_max": 160,
+      "jacket_number": "0130"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 313,
+        "chart": "qot"
+      },
+      "2": {
+        "level": "8",
+        "const": 8.7,
+        "notes": 361,
+        "chart": "qot"
+      },
+      "3": {
+        "level": "11",
+        "const": 11.3,
+        "notes": 673,
+        "chart": "qot"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.5,
+        "notes": 993,
+        "chart": "TPRT Wen after qot"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "QUATTUORUX",
+      "genre": "Tanchiky Selection",
+      "composer": "打打だいず Vs. Tanchiky Vs. からめる",
+      "release": "2025-08-07",
+      "update_version": "2.12.1",
+      "length": 152,
+      "bpm_min": 220,
+      "bpm_max": 220,
+      "jacket_number": "0131"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 674,
+        "chart": "TangScend Vs. ScendRez Vs. Rhezobar"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 946,
+        "chart": "TangScend Vs. ScendRez Vs. Rhezobar"
+      },
+      "3": {
+        "level": "10",
+        "const": 10.4,
+        "notes": 1246,
+        "chart": "TangScend Vs. ScendRez Vs. Rhezobar"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.8,
+        "notes": 1678,
+        "chart": "TangScend Vs. ScendRez Vs. Rhezobar"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Sakura rain",
+      "genre": "Base Songs",
+      "composer": "Nanatsukaze",
+      "release": "2025-08-07",
+      "update_version": "2.12.1",
+      "length": 143,
+      "bpm_min": 120,
+      "bpm_max": 120,
+      "jacket_number": "0132"
+    },
+    "data": {
+      "1": {
+        "level": "1",
+        "const": 1.0,
+        "notes": 119,
+        "chart": "AngrierB"
+      },
+      "2": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 218,
+        "chart": "AngrierB"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.0,
+        "notes": 725,
+        "chart": "AngrierB"
+      },
+      "4": {
+        "level": "11+",
+        "const": 11.9,
+        "notes": 949,
+        "chart": "AngrierB"
+      }
+    }
   }
 ]
