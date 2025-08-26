@@ -1255,8 +1255,8 @@
       "release": "2023-05-30",
       "update_version": "1.9.0",
       "length": 144,
-      "bpm_min": 125,
-      "bpm_max": 125,
+      "bpm_min": 30,
+      "bpm_max": 207,
       "jacket_number": "0020"
     },
     "data": {
@@ -10379,7 +10379,7 @@
       "update_version": "2.8.0",
       "length": 139,
       "bpm_min": 5,
-      "bpm_max": 5,
+      "bpm_max": 315,
       "jacket_number": "0109"
     },
     "data": {
@@ -10417,8 +10417,8 @@
       "release": "2025-03-27",
       "update_version": "2.8.0",
       "length": 110,
-      "bpm_min": 55,
-      "bpm_max": 55,
+      "bpm_min": 110,
+      "bpm_max": 522,
       "jacket_number": "010a"
     },
     "data": {
