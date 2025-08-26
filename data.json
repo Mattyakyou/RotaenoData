@@ -10211,7 +10211,7 @@
       "update_version": "2.8.0",
       "length": 125,
       "bpm_min": 35,
-      "bpm_max": 35,
+      "bpm_max": 400,
       "jacket_number": "0105"
     },
     "data": {
@@ -10256,7 +10256,7 @@
       "update_version": "2.8.0",
       "length": 105,
       "bpm_min": 170,
-      "bpm_max": 170,
+      "bpm_max": 173,
       "jacket_number": "0106"
     },
     "data": {
