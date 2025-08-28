@@ -12298,6 +12298,12 @@
         "level": "13",
         "const": 13.4,
         "notes": 1659,
+        "chart": "PhantoM"
+      },
+      "5": {
+        "level": "14",
+        "const": 14.3,
+        "notes": 2208,
         "chart": "闇靈DarkM \"Eat,sleep,rhythm game,repeat\""
       }
     }
