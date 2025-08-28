@@ -748,8 +748,8 @@
       "release": "2023-02-28",
       "update_version": "1.7.0",
       "length": 133,
-      "bpm_min": 133,
-      "bpm_max": 133,
+      "bpm_min": 266,
+      "bpm_max": 266,
       "jacket_number": "0013"
     },
     "data": {
@@ -12047,6 +12047,414 @@
         "const": 11.9,
         "notes": 949,
         "chart": "AngrierB"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Summer Time Memory",
+      "genre": "Endless Summer Rhapsody",
+      "composer": "kanemiko",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 151,
+      "bpm_min": 149,
+      "bpm_max": 149,
+      "jacket_number": "0133"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 367,
+        "chart": "TangScend"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 508,
+        "chart": "TangScend"
+      },
+      "3": {
+        "level": "8",
+        "const": 8.2,
+        "notes": 815,
+        "chart": "TangScend"
+      },
+      "4": {
+        "level": "12",
+        "const": 12.3,
+        "notes": 1209,
+        "chart": "TangScend"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.5,
+        "notes": 1237,
+        "chart": "TangScend"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "缄色症候",
+      "genre": "Endless Summer Rhapsody",
+      "composer": "ariiol",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 135,
+      "bpm_min": 130,
+      "bpm_max": 130,
+      "jacket_number": "0134"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 381,
+        "chart": "Purple Cat Symptoms"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 507,
+        "chart": "Purple Cat Symptoms"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.1,
+        "notes": 778,
+        "chart": "Purple Cat Symptoms"
+      },
+      "4": {
+        "level": "12",
+        "const": 12.2,
+        "notes": 1159,
+        "chart": "Purple Cat Symptoms"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.1,
+        "notes": 1333,
+        "chart": "Purple Cat Symptoms"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Windsurfer",
+      "genre": "Endless Summer Rhapsody",
+      "composer": "roər",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 144,
+      "bpm_min": 160,
+      "bpm_max": 160,
+      "jacket_number": "0135"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 259,
+        "chart": "イ号P"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 475,
+        "chart": "イ号P"
+      },
+      "3": {
+        "level": "8",
+        "const": 8.8,
+        "notes": 703,
+        "chart": "イ号P"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.8,
+        "notes": 1081,
+        "chart": "イ号P"
+      },
+      "5": {
+        "level": "13+",
+        "const": 13.8,
+        "notes": 1307,
+        "chart": "StormsurfeR"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Rainy Day",
+      "genre": "Endless Summer Rhapsody",
+      "composer": "ag feat. 倉先",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 133,
+      "bpm_min": 138,
+      "bpm_max": 138,
+      "jacket_number": "0136"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 200,
+        "chart": "Yntotr HP"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 666,
+        "chart": "Yntotr HP"
+      },
+      "3": {
+        "level": "8",
+        "const": 8.9,
+        "notes": 784,
+        "chart": "Yntotr HP"
+      },
+      "4": {
+        "level": "12",
+        "const": 12.4,
+        "notes": 1024,
+        "chart": "j!ang"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Beat Rise",
+      "genre": "Endless Summer Rhapsody",
+      "composer": "Makou",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 140,
+      "bpm_min": 128,
+      "bpm_max": 128,
+      "jacket_number": "0137"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 257,
+        "chart": "CorpseRT"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 375,
+        "chart": "CorpseRT"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.2,
+        "notes": 821,
+        "chart": "CorpseRT"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.8,
+        "notes": 1874,
+        "chart": "CorpseRT"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "めんどくさいモード",
+      "genre": "Endless Summer Rhapsody",
+      "composer": "Ponchi♪",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 132,
+      "bpm_min": 205,
+      "bpm_max": 205,
+      "jacket_number": "0138"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 400,
+        "chart": "PhantoM"
+      },
+      "2": {
+        "level": "8",
+        "const": 8.0,
+        "notes": 507,
+        "chart": "PhantoM"
+      },
+      "3": {
+        "level": "11",
+        "const": 11.7,
+        "notes": 1204,
+        "chart": "PhantoM"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.4,
+        "notes": 1659,
+        "chart": "闇靈DarkM \"Eat,sleep,rhythm game,repeat\""
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Mirror",
+      "genre": "Base Songs",
+      "composer": "peak divide & Rachel Lake",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 149,
+      "bpm_min": 176,
+      "bpm_max": 176,
+      "jacket_number": "0139"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 184,
+        "chart": "尾号"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 446,
+        "chart": "尾号"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.3,
+        "notes": 1109,
+        "chart": "尾号"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.8,
+        "notes": 1395,
+        "chart": "尾号"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Slide Down",
+      "genre": "Base Songs",
+      "composer": "Saltless",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 142,
+      "bpm_min": 128,
+      "bpm_max": 128,
+      "jacket_number": "013a"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 282,
+        "chart": "TPRT Wen"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 311,
+        "chart": "TPRT Wen"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.1,
+        "notes": 680,
+        "chart": "TPRT Wen"
+      },
+      "4": {
+        "level": "12",
+        "const": 12.4,
+        "notes": 1166,
+        "chart": "TPRT Wen"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Simulated feat. 澤村光彩＆Ichika Nito",
+      "genre": "Cosmic Voices",
+      "composer": "Neko Hacker",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 153,
+      "bpm_min": 145,
+      "bpm_max": 145,
+      "jacket_number": "013b"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 260,
+        "chart": "闇△靈▽D△a▽r△k▽M「MIRAIを変える」"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 375,
+        "chart": "闇△靈▽D△a▽r△k▽M「MIRAIを変える」"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.3,
+        "notes": 730,
+        "chart": "闇△靈▽D△a▽r△k▽M「MIRAIを変える」"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.4,
+        "notes": 1342,
+        "chart": "闇△靈▽D△a▽r△k▽M「MIRAIを変える」"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "VECTOЯ",
+      "genre": "Starseeker's Vault",
+      "composer": "WHITEFISTS",
+      "release": "2025-08-25",
+      "update_version": "2.13.0",
+      "length": 134,
+      "bpm_min": 200,
+      "bpm_max": 200,
+      "jacket_number": "013c"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 401,
+        "chart": "95"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 652,
+        "chart": "95"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.7,
+        "notes": 861,
+        "chart": "95"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.4,
+        "notes": 1372,
+        "chart": "95"
       }
     }
   }
