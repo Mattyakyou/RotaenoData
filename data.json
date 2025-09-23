@@ -12463,5 +12463,251 @@
         "chart": "95"
       }
     }
+  },
+  {
+    "meta": {
+      "title": "Orison",
+      "genre": "Base Songs",
+      "composer": "Iris feat. Jacelyn Yeo",
+      "release": "2025-09-19",
+      "update_version": "2.14.0",
+      "length": 160,
+      "bpm_min": 155,
+      "bpm_max": 155,
+      "jacket_number": "013d"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 481,
+        "chart": "Purple Cat :: represents \"SEVEN\""
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 528,
+        "chart": "Purple Cat :: represents \"SEVEN\""
+      },
+      "3": {
+        "level": "9",
+        "const": 9.2,
+        "notes": 855,
+        "chart": "Purple Cat :: represents \"SEVEN\""
+      },
+      "4": {
+        "level": "13",
+        "const": 13.3,
+        "notes": 1073,
+        "chart": "Purple Cat :: represents \"SEVEN\""
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "βinαrΨ",
+      "genre": "CytusⅡ Collab",
+      "composer": "Ring",
+      "release": "2025-09-19",
+      "update_version": "2.14.0",
+      "length": 177,
+      "bpm_min": 168,
+      "bpm_max": 168,
+      "jacket_number": "013e"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 523,
+        "chart": "AngrierB"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 733,
+        "chart": "AngrierB"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.6,
+        "notes": 1253,
+        "chart": "AngrierB"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.9,
+        "notes": 1849,
+        "chart": "AngrierB"
+      },
+      "5": {
+        "level": "13+",
+        "const": 13.9,
+        "notes": 2356,
+        "chart": "闇靈DarkM & TangScend // Re:Coded"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Cristalisia",
+      "genre": "CytusⅡ Collab",
+      "composer": "onoken",
+      "release": "2025-09-19",
+      "update_version": "2.14.0",
+      "length": 126,
+      "bpm_min": 134,
+      "bpm_max": 134,
+      "jacket_number": "013f"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 270,
+        "chart": "j!ang"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 394,
+        "chart": "j!ang"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.3,
+        "notes": 668,
+        "chart": "j!ang"
+      },
+      "4": {
+        "level": "11+",
+        "const": 11.6,
+        "notes": 845,
+        "chart": "j!ang"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.1,
+        "notes": 1348,
+        "chart": "TangScend"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Hydra",
+      "genre": "CytusⅡ Collab",
+      "composer": "James Landino X Akira Complex",
+      "release": "2025-09-19",
+      "update_version": "2.14.0",
+      "length": 146,
+      "bpm_min": 160,
+      "bpm_max": 160,
+      "jacket_number": "0140"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 324,
+        "chart": "TPRT Wen"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 599,
+        "chart": "TPRT Wen"
+      },
+      "3": {
+        "level": "10",
+        "const": 10.5,
+        "notes": 982,
+        "chart": "TPRT Wen"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.7,
+        "notes": 1587,
+        "chart": "明日"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "漂流",
+      "genre": "CytusⅡ Collab",
+      "composer": "THE SxPLAY & KIVΛ",
+      "release": "2025-09-19",
+      "update_version": "2.14.0",
+      "length": 159,
+      "bpm_min": 145,
+      "bpm_max": 145,
+      "jacket_number": "0141"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 222,
+        "chart": "闇靈DarkM & Jakasy"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 433,
+        "chart": "闇靈DarkM & Jakasy"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.4,
+        "notes": 936,
+        "chart": "闇靈DarkM & Jakasy"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.4,
+        "notes": 1684,
+        "chart": "Jakasy"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Incyde",
+      "genre": "CytusⅡ Collab",
+      "composer": "YbeLL",
+      "release": "2025-09-19",
+      "update_version": "2.14.0",
+      "length": 182,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "0142"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 441,
+        "chart": "\"WHo am I…?\""
+      },
+      "2": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 902,
+        "chart": "\"WHo am I…?\""
+      },
+      "3": {
+        "level": "12",
+        "const": 12.3,
+        "notes": 1657,
+        "chart": "\"WHo am I…?\""
+      },
+      "4": {
+        "level": "14",
+        "const": 14.3,
+        "notes": 2288,
+        "chart": "\"WHo Am I…?\""
+      }
+    }
   }
 ]
