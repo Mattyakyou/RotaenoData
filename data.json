@@ -12709,5 +12709,557 @@
         "chart": "\"WHo Am I…?\""
       }
     }
+  },
+  {
+    "meta": {
+      "title": "いざ、参ります",
+      "genre": "Base Songs",
+      "composer": "U-ske feat. 棗いつき",
+      "release": "2025-10-03",
+      "update_version": "2.14.1",
+      "length": 99,
+      "bpm_min": 188,
+      "bpm_max": 188,
+      "jacket_number": "0143"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 178,
+        "chart": "MF-"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 323,
+        "chart": "MF-"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.5,
+        "notes": 578,
+        "chart": "MF- & Waphtuos"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.7,
+        "notes": 1010,
+        "chart": "MF- & Waphtuos"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Koki Chant",
+      "genre": "Base Songs",
+      "composer": "Glacier",
+      "release": "2025-10-03",
+      "update_version": "2.14.1",
+      "length": 140,
+      "bpm_min": 171,
+      "bpm_max": 173,
+      "jacket_number": "0144"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 304,
+        "chart": "TangScend"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 457,
+        "chart": "TangScend"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.9,
+        "notes": 887,
+        "chart": "TangScend"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.3,
+        "notes": 1681,
+        "chart": "analysis."
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Give (Me) Your Love",
+      "genre": "Starseeker's Vault",
+      "composer": "JAKAZiD",
+      "release": "2025-10-03",
+      "update_version": "2.14.1",
+      "length": 143,
+      "bpm_min": 170,
+      "bpm_max": 170,
+      "jacket_number": "0145"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 381,
+        "chart": "aqatl"
+      },
+      "2": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 576,
+        "chart": "aqatl"
+      },
+      "3": {
+        "level": "10",
+        "const": 10.1,
+        "notes": 1124,
+        "chart": "aqatl"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.2,
+        "notes": 2025,
+        "chart": "aqatl"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Äventyr",
+      "genre": "Starseeker's Vault",
+      "composer": "Grand Thaw / Rigël Theatre",
+      "release": "2025-10-03",
+      "update_version": "2.14.1",
+      "length": 152,
+      "bpm_min": 132,
+      "bpm_max": 132,
+      "jacket_number": "0146"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 340,
+        "chart": "Xvl"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 436,
+        "chart": "Xvl"
+      },
+      "3": {
+        "level": "8",
+        "const": 8.4,
+        "notes": 788,
+        "chart": "Xvl"
+      },
+      "4": {
+        "level": "11",
+        "const": 11.4,
+        "notes": 1095,
+        "chart": "Jakasy"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.4,
+        "notes": 1702,
+        "chart": "Xvl"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Secret Illumination (seatrus's The \"AURA\" Remix)",
+      "genre": "Base Songs",
+      "composer": "seatrus",
+      "release": "2025-10-23",
+      "update_version": "2.14.3",
+      "length": 128,
+      "bpm_min": 176,
+      "bpm_max": 176,
+      "jacket_number": "0147"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 240,
+        "chart": "95"
+      },
+      "2": {
+        "level": "8",
+        "const": 8.5,
+        "notes": 469,
+        "chart": "95"
+      },
+      "3": {
+        "level": "10",
+        "const": 10.5,
+        "notes": 860,
+        "chart": "95"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.9,
+        "notes": 1973,
+        "chart": "95 respecting Adashi"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Re：birth",
+      "genre": "KALPA: Cosmic Symphony Collab",
+      "composer": "ああああ",
+      "release": "2025-10-23",
+      "update_version": "2.14.3",
+      "length": 150,
+      "bpm_min": 196,
+      "bpm_max": 196,
+      "jacket_number": "0148"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 309,
+        "chart": "Jakasy"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 598,
+        "chart": "Jakasy"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.4,
+        "notes": 927,
+        "chart": "闇靈DarkM"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.8,
+        "notes": 1736,
+        "chart": "闇靈DarkM"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Red Bullet feat.はらもりよしな",
+      "genre": "KALPA: Cosmic Symphony Collab",
+      "composer": "TAKIO",
+      "release": "2025-10-23",
+      "update_version": "2.14.3",
+      "length": 140,
+      "bpm_min": 215,
+      "bpm_max": 215,
+      "jacket_number": "0149"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 484,
+        "chart": "TPRT Wen"
+      },
+      "2": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 666,
+        "chart": "TPRT Wen"
+      },
+      "3": {
+        "level": "10",
+        "const": 10.2,
+        "notes": 1093,
+        "chart": "TPRT Wen"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.7,
+        "notes": 1603,
+        "chart": "TPRT Wen"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Flutter Echo",
+      "genre": "KALPA: Cosmic Symphony Collab",
+      "composer": "Cansol",
+      "release": "2025-10-23",
+      "update_version": "2.14.3",
+      "length": 157,
+      "bpm_min": 146,
+      "bpm_max": 219,
+      "jacket_number": "014a"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 323,
+        "chart": "尾号"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 563,
+        "chart": "尾号"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.7,
+        "notes": 1220,
+        "chart": "尾号"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.3,
+        "notes": 1535,
+        "chart": "尾号"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "VERTEXION",
+      "genre": "Base Songs",
+      "composer": "Kinetix",
+      "release": "2025-11-13",
+      "update_version": "2.15.0",
+      "length": 151,
+      "bpm_min": 155,
+      "bpm_max": 155,
+      "jacket_number": "014b"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 209,
+        "chart": "尾号"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 568,
+        "chart": "尾号"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.9,
+        "notes": 1073,
+        "chart": "尾号"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.9,
+        "notes": 1410,
+        "chart": "尾号"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "名無しの宣教師",
+      "genre": "Dynamix Universe Collab",
+      "composer": "MIssionary",
+      "release": "2025-11-13",
+      "update_version": "2.15.0",
+      "length": 122,
+      "bpm_min": 194,
+      "bpm_max": 194,
+      "jacket_number": "014c"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 167,
+        "chart": "Missionary:______"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 383,
+        "chart": "Missionary:______"
+      },
+      "3": {
+        "level": "8",
+        "const": 8.9,
+        "notes": 631,
+        "chart": "Missionary:______"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.6,
+        "notes": 1081,
+        "chart": "Missionary:______"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Go Escape",
+      "genre": "Dynamix Universe Collab",
+      "composer": "mmry",
+      "release": "2025-11-13",
+      "update_version": "2.15.0",
+      "length": 105,
+      "bpm_min": 150,
+      "bpm_max": 150,
+      "jacket_number": "014d"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 227,
+        "chart": "HolySteven"
+      },
+      "2": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 361,
+        "chart": "HolySteven"
+      },
+      "3": {
+        "level": "8",
+        "const": 8.6,
+        "notes": 574,
+        "chart": "HolySteven"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.0,
+        "notes": 1379,
+        "chart": "HolySteven"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Fire Of Heart",
+      "genre": "Dynamix Universe Collab",
+      "composer": "果茶",
+      "release": "2025-11-13",
+      "update_version": "2.15.0",
+      "length": 121,
+      "bpm_min": 175,
+      "bpm_max": 175,
+      "jacket_number": "014e"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 445,
+        "chart": "Purple Cat burning in Golden Flame"
+      },
+      "2": {
+        "level": "6",
+        "const": 6.0,
+        "notes": 434,
+        "chart": "Purple Cat burning in Golden Flame"
+      },
+      "3": {
+        "level": "11+",
+        "const": 11.9,
+        "notes": 828,
+        "chart": "Purple Cat burning in Golden Flame"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.4,
+        "notes": 1600,
+        "chart": "Purple Cat burning in Golden Flame"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Slide Into Light",
+      "genre": "Dynamix Universe Collab",
+      "composer": "ValeraP",
+      "release": "2025-11-13",
+      "update_version": "2.15.0",
+      "length": 173,
+      "bpm_min": 200,
+      "bpm_max": 200,
+      "jacket_number": "014f"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 664,
+        "chart": "ー"
+      },
+      "2": {
+        "level": "7",
+        "const": 7.5,
+        "notes": 675,
+        "chart": "ー"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.2,
+        "notes": 948,
+        "chart": "ー"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.6,
+        "notes": 1435,
+        "chart": "ー"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "STARGAZΞR",
+      "genre": "Dynamix Universe Collab",
+      "composer": "celtix",
+      "release": "2025-11-13",
+      "update_version": "2.15.0",
+      "length": 134,
+      "bpm_min": 256,
+      "bpm_max": 256,
+      "jacket_number": "0150"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 381,
+        "chart": "TPRT Wen"
+      },
+      "2": {
+        "level": "8",
+        "const": 8.7,
+        "notes": 625,
+        "chart": "TPRT Wen"
+      },
+      "3": {
+        "level": "12",
+        "const": 12.3,
+        "notes": 1002,
+        "chart": "TPRT Wen"
+      },
+      "4": {
+        "level": "14",
+        "const": 14.0,
+        "notes": 2009,
+        "chart": "TPRT Wen"
+      }
+    }
   }
 ]
