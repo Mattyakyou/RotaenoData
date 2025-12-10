@@ -13261,5 +13261,374 @@
         "chart": "TPRT Wen"
       }
     }
+  },
+  {
+    "meta": {
+      "title": "Cosmic Voyage",
+      "genre": "Sky, Spacecraft, and My Precious—",
+      "composer": "ItsMeFisher",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": 166,
+      "bpm_min": 110,
+      "bpm_max": 110,
+      "jacket_number": "0151"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 367,
+        "chart": "TangScend"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 1017,
+        "chart": "TangScend"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.1,
+        "notes": 1047,
+        "chart": "TangScend"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.1,
+        "notes": 1775,
+        "chart": "TangScend"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Dispersion",
+      "genre": "Sky, Spacecraft, and My Precious—",
+      "composer": "Dxsbond",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": 161,
+      "bpm_min": "",
+      "bpm_max": "",
+      "jacket_number": "0152"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 682,
+        "chart": "AxEradaS"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 766,
+        "chart": "AxEradaS"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.3,
+        "notes": 1287,
+        "chart": "AxEradaS"
+      },
+      "4": {
+        "level": "13",
+        "const": 13.2,
+        "notes": 1400,
+        "chart": "j!ang"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ミルキーウェイを辿って",
+      "genre": "Sky, Spacecraft, and My Precious—",
+      "composer": "kuro",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": 115,
+      "bpm_min": 215,
+      "bpm_max": 215,
+      "jacket_number": "0153"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 326,
+        "chart": "TPRT Wen"
+      },
+      "2": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 548,
+        "chart": "TPRT Wen"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.4,
+        "notes": 946,
+        "chart": "TPRT Wen"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.7,
+        "notes": 985,
+        "chart": "TPRT Wen"
+      },
+      "5": {
+        "level": "13",
+        "const": 13.4,
+        "notes": 997,
+        "chart": "TangScend"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "六天照來",
+      "genre": "Sky, Spacecraft, and My Precious—",
+      "composer": "Se-U-Ra",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": 118,
+      "bpm_min": 139,
+      "bpm_max": 139,
+      "jacket_number": "0154"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 459,
+        "chart": "PhantoM"
+      },
+      "2": {
+        "level": "7",
+        "const": 7.0,
+        "notes": 575,
+        "chart": "PhantoM"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.2,
+        "notes": 755,
+        "chart": "PhantoM"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.8,
+        "notes": 972,
+        "chart": "Jakasy"
+      },
+      "5": {
+        "level": "13+",
+        "const": 13.8,
+        "notes": 1383,
+        "chart": "Jakasy"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "INN3RFLAME",
+      "genre": "Sky, Spacecraft, and My Precious—",
+      "composer": "seatrus",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": 113,
+      "bpm_min": 205,
+      "bpm_max": 205,
+      "jacket_number": "0155"
+    },
+    "data": {
+      "1": {
+        "level": "3",
+        "const": 3.0,
+        "notes": 339,
+        "chart": "TangScend -AV3NGE-"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 597,
+        "chart": "TangScend -AV3NGE-"
+      },
+      "3": {
+        "level": "11+",
+        "const": 11.7,
+        "notes": 856,
+        "chart": "TangScend -AV3NGE-"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.9,
+        "notes": 1609,
+        "chart": "TangScend -AV3NGE-"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "ephemeralization",
+      "genre": "Sky, Spacecraft, and My Precious—",
+      "composer": "ぴれんどらー",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": 147,
+      "bpm_min": 190,
+      "bpm_max": 190,
+      "jacket_number": "0156"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 4.0,
+        "notes": 589,
+        "chart": "AngrierB - EVOLUTION -"
+      },
+      "2": {
+        "level": "8",
+        "const": 8.9,
+        "notes": 952,
+        "chart": "AngrierB - EVOLUTION -"
+      },
+      "3": {
+        "level": "12",
+        "const": 12.3,
+        "notes": 1341,
+        "chart": "AngrierB - EVOLUTION -"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.7,
+        "notes": 1659,
+        "chart": "AngrierB - EVOLUTION -"
+      },
+      "5": {
+        "level": "14",
+        "const": 14.4,
+        "notes": 2556,
+        "chart": "AngrierB - EVOLUTION -"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "伊天珀凌",
+      "genre": "Base Songs",
+      "composer": "南愁Nanchou",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": "",
+      "bpm_min": 190,
+      "bpm_max": 190,
+      "jacket_number": "0157"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 236,
+        "chart": "尾号Weihao"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 531,
+        "chart": "尾号Weihao"
+      },
+      "3": {
+        "level": "8",
+        "const": 8.4,
+        "notes": 842,
+        "chart": "尾号Weihao"
+      },
+      "4": {
+        "level": "12+",
+        "const": 12.8,
+        "notes": 1655,
+        "chart": "尾号Weihao"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "悔_",
+      "genre": "A New Era",
+      "composer": "EssBee",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": 152,
+      "bpm_min": 180,
+      "bpm_max": 180,
+      "jacket_number": "0158"
+    },
+    "data": {
+      "1": {
+        "level": "4",
+        "const": 3.0,
+        "notes": 573,
+        "chart": "AXERA [The stars we counted, the tears we shared, with a wisp of regret, sink into the endless ephemeral journey of mine.]"
+      },
+      "2": {
+        "level": "8",
+        "const": 6.0,
+        "notes": 632,
+        "chart": "AXERA [The stars we counted, the tears we shared, with a wisp of regret, sink into the endless ephemeral journey of mine.]"
+      },
+      "3": {
+        "level": "12",
+        "const": 11.4,
+        "notes": 1196,
+        "chart": "AXERA [The stars we counted, the tears we shared, with a wisp of regret, sink into the endless ephemeral journey of mine.]"
+      },
+      "4": {
+        "level": "14",
+        "const": 14.0,
+        "notes": 1852,
+        "chart": "AXERA [The stars we counted, the tears we shared, with a wisp of regret, sink into the endless ephemeral journey of mine.]"
+      }
+    }
+  },
+  {
+    "meta": {
+      "title": "Name of oath",
+      "genre": "Starseeker's Vault",
+      "composer": "void (Mournfinale) feat. コツキミヤ (Gt. えば)",
+      "release": "2025-12-05",
+      "update_version": "2.16.0",
+      "length": "",
+      "bpm_min": 174,
+      "bpm_max": 174,
+      "jacket_number": "0159"
+    },
+    "data": {
+      "1": {
+        "level": "2",
+        "const": 2.0,
+        "notes": 221,
+        "chart": "Tangscend"
+      },
+      "2": {
+        "level": "5",
+        "const": 5.0,
+        "notes": 535,
+        "chart": "Tangscend"
+      },
+      "3": {
+        "level": "9",
+        "const": 9.7,
+        "notes": 926,
+        "chart": "Tangscend"
+      },
+      "4": {
+        "level": "13+",
+        "const": 13.8,
+        "notes": 1549,
+        "chart": "Tangscend"
+      }
+    }
   }
 ]

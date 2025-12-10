@@ -16,10 +16,20 @@ Discordのアカウントを知っていたらDMしてください。
 
 知らなかった場合、[Twitterのアカウント](https://x.com/mattyakyou_game)です。
 # 未修正
-完璧
+* Dispersion
+  * bpm
+
+* 伊天珀凌
+  * length
+
+* Name of oath
+  * length
+  * const
+  * notes
+
 
 # 曲埋めた数
-達成率(ver.2.15.0) [337/337]
+達成率(ver.2.16.0) [346/346]
 
 * Main Chapter [90/90]
 
@@ -31,17 +41,19 @@ Discordのアカウントを知っていたらDMしてください。
   
   * Chapter3 [8/8]
   
-* Side Story [30/30]
+* Side Story [37/37]
 
   * Trail: The Day A Dream Was Born [6/6]
   
   * Where Our Story Began [6/6]
   
-  * A New Era [6/6]
+  * A New Era [7/7]
   
   * Rotaeno's Highschool Fantasy [6/6]
   
   * Endless Summer Rhapsody [6/6]
+
+  * Sky, Spacecraft, and My Precious— [6/6]
   
 * Collab [89/89]
 
@@ -75,7 +87,7 @@ Discordのアカウントを知っていたらDMしてください。
   
   * Tanchiky sellection [3/3]
   
-  * Cytus [5/5]
+  * CytusⅡ [5/5]
   
   * KALPA: Cosmic Symphony [3/3]
 
@@ -125,6 +137,6 @@ Discordのアカウントを知っていたらDMしてください。
 
   * Cosmic Voices [24/24]
   
-* Others [6/6]
+* Others [7/7]
 
-  * Starseeker's Vault [6/6]
+  * Starseeker's Vault [7/7]
